@@ -2,7 +2,7 @@
 
 ---
 
-链接测试：[百度](www.baidu.com)
+链接测试：[百度](https://www.baidu.com)
 
 图片测试：![mark](http://evaluations.oss-cn-hangzhou.aliyuncs.com/common/20200206/153151045.png "点我")
 
