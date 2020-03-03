@@ -1,9 +1,7 @@
+**目录**
 1. [Introduction](#introduction)
 2. [What's New](#whats-new)
 3. [Dr.Liu's Profile](#drlius-profile)
-   1. [About Me](#about-me)
-   2. [Education and Work Experience](#education-and-work-experience)
-   3. [Field of Research](#field-of-research)
 4. [Publication](#publication)
 5. [Related Downloads](#related-downloads)
 6. [Misc](#misc)
@@ -23,7 +21,7 @@
 
 # Dr.Liu's Profile
 
-## About Me
+## About Me <!-- omit in toc -->
 
 ![](/images/1.jpg)
 - **姓名**：刘郑
@@ -33,7 +31,7 @@
 - **电话**：13995508024
 - **电子邮箱**：liu.zheng.jojo@gmail.com
   
-## Education and Work Experience
+## Education and Work Experience <!-- omit in toc -->
 
 - **2015.03－至今**：中国地质大学（武汉），信息工程学院；讲师
 - **2013.01－2015.02**：中国科学与技术大学，数学科学院；博士后，合作导师：刘利刚教授（百人计划）
@@ -41,7 +39,7 @@
 - **2006.09－2009.07**：中国地质大学（武汉），信息工程学院；计算机应用，硕士，指导老师：谢忠教授
 - **2002.09－2006.07**：中国地质大学（武汉），信息工程学院；软件工程，学士
 
-## Field of Research 
+## Field of Research <!-- omit in toc -->
 
 - **数字几何处理**: 具体包括三角网格和点云的滤波、分割、修补、参数化和变形等问题的研究。
 - **计算机视觉(low level）**：具体包括图像的滤波、分割和光照分解等问题的研究。
@@ -53,13 +51,13 @@
 日后可以改造介绍某些文章的具体展示，现在只提供下载链接
 ```
 
-[1][Zheng Liu, Rongjie Lai, Huayan Zhang, Chunlin Wu, “Triangulated Surface Denoising using High Order Regularization with Dynamic Weights”, SIAM Journal on Scientific Computing, 41(1): B1-B26, 2019.]()
+[1][Zheng Liu, Rongjie Lai, Huayan Zhang, Chunlin Wu, “Triangulated Surface Denoising using High Order Regularization with Dynamic Weights”, SIAM Journal on Scientific Computing, 41(1): B1-B26, 2019.](/papers/(SISC19)Triangulated Surface Denoising using High Order Regularization with Dynamic Weights.pdf)
 
-[2][Zheng Liu, Saishang Zhong, Zhong Xie, Weina Wang, “A Novel Anisotropic Second Order Regularziation for Mesh Denoising”, Computer Aided Geometric Design, 71(2019):190-201.]()
+[2][Zheng Liu, Saishang Zhong, Zhong Xie, Weina Wang, “A Novel Anisotropic Second Order Regularziation for Mesh Denoising”, Computer Aided Geometric Design, 71(2019):190-201.](/papers/(CAGD19)A Novel Anisotropic Second Order Regularization for Mesh Denoising.pdf)
 
-[3][Saishang Zhong, Zhong Xie, Jinqin Liu, Zheng Liu, “Robust Mesh Denoising via Triple Sparsity", Sensors, 19(5): 1001, 2019.]()
+[3][Saishang Zhong, Zhong Xie, Jinqin Liu, Zheng Liu, “Robust Mesh Denoising via Triple Sparsity", Sensors, 19(5): 1001, 2019.](/papers/(Sensors19)Robust Mesh Denoising via Triple Sparsity.pdf)
 
-[4][Saishang Zhong, Zhong Xie, Weina Wang, Zheng Liu and Ligang Liu, “Mesh Denoising via Total Variation and Weighted Laplacian Regularizations”, Journal Computer Animation and Virtual Worlds (Proc. CASA), 29(3-4):1-12, 2018.]()
+[4][Saishang Zhong, Zhong Xie, Weina Wang, Zheng Liu and Ligang Liu, “Mesh Denoising via Total Variation and Weighted Laplacian Regularizations”, Journal Computer Animation and Virtual Worlds (Proc. CASA), 29(3-4):1-12, 2018.](/papers/(CASA18)Mesh denoising via total variation and weighted Laplacian regularizations.pdf)
 
 [5][Zheng Liu, Huayan Zhang and Chunlin Wu, “On Geodesic Curvature Flow with Level Set Formulation Over Triangulated Surfaces”, Journal of Scientific Computing, 70(2):631-661, 2017.]()
 
