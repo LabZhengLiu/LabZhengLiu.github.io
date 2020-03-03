@@ -28,7 +28,7 @@
 - **出生年月**：1983.05
 - **单位**：中国地质大学（武汉）信息工程学院
 - **通讯地址**：湖北省武汉市鲁磨路388号，邮编430074
-- **电话**：13995508024
+- **电话**：在正式版发布前暂时不写防止信息泄露
 - **电子邮箱**：liu.zheng.jojo@gmail.com
   
 ## Education and Work Experience <!-- omit in toc -->
@@ -51,13 +51,13 @@
 日后可以改造介绍某些文章的具体展示，现在只提供下载链接
 ```
 
-[1][Zheng Liu, Rongjie Lai, Huayan Zhang, Chunlin Wu, “Triangulated Surface Denoising using High Order Regularization with Dynamic Weights”, SIAM Journal on Scientific Computing, 41(1): B1-B26, 2019.](/papers/(SISC19)Triangulated Surface Denoising using High Order Regularization with Dynamic Weights.pdf)
+[1][Zheng Liu, Rongjie Lai, Huayan Zhang, Chunlin Wu, “Triangulated Surface Denoising using High Order Regularization with Dynamic Weights”, SIAM Journal on Scientific Computing, 41(1): B1-B26, 2019.]()
 
-[2][Zheng Liu, Saishang Zhong, Zhong Xie, Weina Wang, “A Novel Anisotropic Second Order Regularziation for Mesh Denoising”, Computer Aided Geometric Design, 71(2019):190-201.](/papers/(CAGD19)A Novel Anisotropic Second Order Regularization for Mesh Denoising.pdf)
+[2][Zheng Liu, Saishang Zhong, Zhong Xie, Weina Wang, “A Novel Anisotropic Second Order Regularziation for Mesh Denoising”, Computer Aided Geometric Design, 71(2019):190-201.]()
 
-[3][Saishang Zhong, Zhong Xie, Jinqin Liu, Zheng Liu, “Robust Mesh Denoising via Triple Sparsity", Sensors, 19(5): 1001, 2019.](/papers/(Sensors19)Robust Mesh Denoising via Triple Sparsity.pdf)
+[3][Saishang Zhong, Zhong Xie, Jinqin Liu, Zheng Liu, “Robust Mesh Denoising via Triple Sparsity", Sensors, 19(5): 1001, 2019.]()
 
-[4][Saishang Zhong, Zhong Xie, Weina Wang, Zheng Liu and Ligang Liu, “Mesh Denoising via Total Variation and Weighted Laplacian Regularizations”, Journal Computer Animation and Virtual Worlds (Proc. CASA), 29(3-4):1-12, 2018.](/papers/(CASA18)Mesh denoising via total variation and weighted Laplacian regularizations.pdf)
+[4][Saishang Zhong, Zhong Xie, Weina Wang, Zheng Liu and Ligang Liu, “Mesh Denoising via Total Variation and Weighted Laplacian Regularizations”, Journal Computer Animation and Virtual Worlds (Proc. CASA), 29(3-4):1-12, 2018.]()
 
 [5][Zheng Liu, Huayan Zhang and Chunlin Wu, “On Geodesic Curvature Flow with Level Set Formulation Over Triangulated Surfaces”, Journal of Scientific Computing, 70(2):631-661, 2017.]()
 
