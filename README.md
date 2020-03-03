@@ -1,15 +1,96 @@
-# 主页测试
+1. [Introduction](#introduction)
+2. [What's New](#whats-new)
+3. [Dr.Liu's Profile](#drlius-profile)
+   1. [About Me](#about-me)
+   2. [Education and Work Experience](#education-and-work-experience)
+   3. [Field of Research](#field-of-research)
+4. [Publication](#publication)
+5. [Related Downloads](#related-downloads)
+6. [Misc](#misc)
+7. [License](#license)
 
----
+# Introduction
 
-链接测试：[Github](https://www.github.com)
+```
+这里放刘郑团队的一些基本介绍。
+```
 
-图片测试：![mark](http://evaluations.oss-cn-hangzhou.aliyuncs.com/common/20200206/153151045.png "点我")
+# What's New
 
-音频测试：<audio controls="" preload="none">
-      <source src="http://qiniu.cloud.fandong.me/Music_iP%E8%B5%B5%E9%9C%B2%20-%20%E7%A6%BB%E6%AD%8C%20%28Live%29.mp3">
-</audio>
+```
+这里放近期完成的一些工作
+```
 
-视频测试：<video controls="" preload="none" poster="http://img.blog.fandong.me/2017-08-26-Markdown-Advance-Video.jpg" width=100%>
-      <source src="http://img.blog.fandong.me/2017-08-26-Markdown-Advance-Video.mp4" type="video/mp4">
-</video>
+# Dr.Liu's Profile
+
+## About Me
+
+![](/images/1.jpg)
+- **姓名**：刘郑
+- **出生年月**：1983.05
+- **单位**：中国地质大学（武汉）信息工程学院
+- **通讯地址**：湖北省武汉市鲁磨路388号，邮编430074
+- **电话**：13995508024
+- **电子邮箱**：liu.zheng.jojo@gmail.com
+  
+## Education and Work Experience
+
+- **2015.03－至今**：中国地质大学（武汉），信息工程学院；讲师
+- **2013.01－2015.02**：中国科学与技术大学，数学科学院；博士后，合作导师：刘利刚教授（百人计划）
+- **2009.09－2012.12**：华中师范大学，国家数字化学习工程技术研究中心；教育技术学，博士，指导老师：张景中院士
+- **2006.09－2009.07**：中国地质大学（武汉），信息工程学院；计算机应用，硕士，指导老师：谢忠教授
+- **2002.09－2006.07**：中国地质大学（武汉），信息工程学院；软件工程，学士
+
+## Field of Research 
+
+- **数字几何处理**: 具体包括三角网格和点云的滤波、分割、修补、参数化和变形等问题的研究。
+- **计算机视觉(low level）**：具体包括图像的滤波、分割和光照分解等问题的研究。
+- **数值优化和科学计算**：具体包括全变分(total variation)模型的应用研究，高阶变分模型的设计和求解算法研究，非凸非光滑模型的设计和快速求解算法研究，测地曲率流(level set)的研究等。
+
+# Publication
+
+```
+日后可以改造介绍某些文章的具体展示，现在只提供下载链接
+```
+
+[1][Zheng Liu, Rongjie Lai, Huayan Zhang, Chunlin Wu, “Triangulated Surface Denoising using High Order Regularization with Dynamic Weights”, SIAM Journal on Scientific Computing, 41(1): B1-B26, 2019.]()
+
+[2][Zheng Liu, Saishang Zhong, Zhong Xie, Weina Wang, “A Novel Anisotropic Second Order Regularziation for Mesh Denoising”, Computer Aided Geometric Design, 71(2019):190-201.]()
+
+[3][Saishang Zhong, Zhong Xie, Jinqin Liu, Zheng Liu, “Robust Mesh Denoising via Triple Sparsity", Sensors, 19(5): 1001, 2019.]()
+
+[4][Saishang Zhong, Zhong Xie, Weina Wang, Zheng Liu and Ligang Liu, “Mesh Denoising via Total Variation and Weighted Laplacian Regularizations”, Journal Computer Animation and Virtual Worlds (Proc. CASA), 29(3-4):1-12, 2018.]()
+
+[5][Zheng Liu, Huayan Zhang and Chunlin Wu, “On Geodesic Curvature Flow with Level Set Formulation Over Triangulated Surfaces”, Journal of Scientific Computing, 70(2):631-661, 2017.]()
+
+[6][Ling Zhang, Qingan Yan, Zheng Liu, Hua Zou, Chunxia Xiao, “Illumination Decomposition for Photograph with Multiple Light Sources”, IEEE Transactions on Image Processing, 26(9): 4114-4127, 2017.]()
+
+[7][Huayan Zhang, Chunlin Wu, Jiansong Deng, Zheng Liu, Yuning Yang, “A New Two-stage Mesh Surface Segmentation Method”, Visual Computer, 34(11): 1597-1615, 2017.]()
+
+[8][Chunxue Wang, Zheng Liu, Ligang Liu, “As-rigid-as-possible Spherical Parametrization”, Graphical Models (Proc. GMP), 76(5): 4457-467, 2014.]()
+
+[9][Zheng Liu, Weiming Wang, Xiuping Liu, Ligang Liu, “Scale-Aware Shape Manipulation”, Journal of Zhejiang University Science C (Computers & Electronics), 15(9): 764-775, 2014.]()
+
+[10][刘袁缘, 谢忠, 周顺平, 刘郑, 王伟明, 刘秀平, 饶伟, “基于条件迭代更新随机森林的非约束人脸特征点精确定位”, 计算机辅助设计与图形学学报, 29(10): 1881-1890, 2017.]()
+
+[11][Zheng Liu, Guanhai Liu, Wei Lu, Mao Chen, “Design and Implementation of a 3D Dynamic Geometry System”, Advances in Information Sciences and Service Sciences, 4(8): 93-100, 2012.]()
+
+[12][Zheng Liu, Guanhan Liu, Mao Chen, “Design of Parameterized Model for a 3D Dynamic Geometry System”, Advances in Information Sciences and Services Sciences, 4(13): 126-134, 2012.]()
+
+# Related Downloads
+
+```
+这里放程序和一些demo的下载链接
+```
+
+# Misc
+
+```
+这里放一些杂项，比如团队成员介绍等
+```
+
+# License
+
+```
+这里放许可证信息
+```
