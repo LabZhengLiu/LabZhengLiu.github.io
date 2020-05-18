@@ -23,19 +23,63 @@
 
 ## About Me <!-- omit in toc -->
 
-<img style="float:left;" src="https://team-of-zhengliu.github.io/open-website/images/2.jpg"><br><br><br>
+<img style="float:left;" src="https://team-of-zhengliu.github.io/open-website/images/2.jpg">
+<br>
+<br>
+<br>
 <div style="float:right;">
-- **姓名**：刘郑
-<br>
-- **出生年月**：1983.05
-<br>
-- **单位**：中国地质大学（武汉）信息工程学院
-<br>
-- **通讯地址**：湖北省武汉市鲁磨路388号，邮编430074
-<br>
-- **电话**：在正式版发布前暂时不写防止信息泄露
-<br>
-- **电子邮箱**：liu.zheng.jojo@gmail.com
+<ul>
+    <li>
+        <strong>
+            姓名
+        </strong>
+        ：刘郑
+    </li>
+    <br>
+    <li>
+        <strong>
+            出生年月
+        </strong>
+        ：1983.05
+    </li>
+    <br>
+    <li>
+        <strong>
+            单位
+        </strong>
+        ：
+        <a href="http://xgxy.cug.edu.cn/">
+            中国地质大学（武汉）信息工程学院
+        </a>
+    </li>
+    <br>
+    <li>
+        <strong>
+            通讯地址
+        </strong>
+        ：
+        <a href="https://www.google.com/search?q=%E6%B9%96%E5%8C%97%E7%9C%81%E6%AD%A6%E6%B1%89%E5%B8%82%E9%B2%81%E7%A3%A8%E8%B7%AF388%E5%8F%B7%EF%BC%8C%E9%82%AE%E7%BC%96430074&oq=%E6%B9%96%E5%8C%97%E7%9C%81%E6%AD%A6%E6%B1%89%E5%B8%82%E9%B2%81%E7%A3%A8%E8%B7%AF388%E5%8F%B7%EF%BC%8C%E9%82%AE%E7%BC%96430074&aqs=chrome..69i57.276j0j8&sourceid=chrome&ie=UTF-8">
+            湖北省武汉市鲁磨路388号，邮编430074
+        </a>
+    </li>
+    <br>
+    <li>
+        <strong>
+            电话
+        </strong>
+        ：在正式版发布前暂时不写防止信息泄露
+    </li>
+    <br>
+    <li>
+        <strong>
+            电子邮箱
+        </strong>
+        ：
+        <a href="liu.zheng.jojo@gmail.com">
+            liu.zheng.jojo@gmail.com
+        </a>
+    </li>
+</ul>
 </div>
 <div style="clear:both"></div>
 
@@ -128,6 +172,6 @@
 
 ---
 
-本页面版本：v0.3
+本页面版本：v0.5
 
-最后更新时间：20/03/06 16:50
+最后更新时间：20/05/18 17:12
