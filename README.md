@@ -51,11 +51,9 @@
 日后可以改造介绍某些文章的具体展示，现在只提供下载链接
 ```
 
-<img style="float:left;" src="1.png"></img>  
+<img style="float:left;" src="https://team-of-zhengliu.github.io/open-website/images/paper-1.png"></img>  
     [1][Zheng Liu, Rongjie Lai, Huayan Zhang, Chunlin Wu, “Triangulated Surface Denoising using High Order Regularization with Dynamic Weights”, SIAM Journal on Scientific Computing, 41(1): B1-B26, 2019.](https://team-of-zhengliu.github.io/open-website/papers/(SISC19)Triangulated%20Surface%20Denoising%20using%20High%20Order%20Regularization%20with%20Dynamic%20Weights.pdf)
 <div style="clear:both"></div>
-
-
 
 [1][Zheng Liu, Rongjie Lai, Huayan Zhang, Chunlin Wu, “Triangulated Surface Denoising using High Order Regularization with Dynamic Weights”, SIAM Journal on Scientific Computing, 41(1): B1-B26, 2019.](https://team-of-zhengliu.github.io/open-website/papers/(SISC19)Triangulated%20Surface%20Denoising%20using%20High%20Order%20Regularization%20with%20Dynamic%20Weights.pdf)
 
