@@ -23,7 +23,7 @@
 
 ## About Me <!-- omit in toc -->
 
-<img style="float:left;" src="https://team-of-zhengliu.github.io/open-website/images/1.jpg"> 
+<img style="float:left;" src="https://team-of-zhengliu.github.io/open-website/images/2.jpg"> 
 - **姓名**：刘郑
 - **出生年月**：1983.05
 - **单位**：中国地质大学（武汉）信息工程学院
@@ -53,7 +53,7 @@
 ```
 
 <img style="float:left;" src="https://team-of-zhengliu.github.io/open-website/images/paper-2.png"> 
-[1]Zheng Liu, Rongjie Lai, Huayan Zhang, Chunlin Wu, “Triangulated Surface Denoising using High Order Regularization with Dynamic Weights”, SIAM Journal on Scientific Computing, 41(1): B1-B26, 2019.</br>[[paper]](https://team-of-zhengliu.github.io/open-website/papers/(SISC19)Triangulated%20Surface%20Denoising%20using%20High%20Order%20Regularization%20with%20Dynamic%20Weights.pdf)   [[code]](https://www.github.com)
+[1]Zheng Liu, Rongjie Lai, Huayan Zhang, Chunlin Wu, “Triangulated Surface Denoising using High Order Regularization with Dynamic Weights”, SIAM Journal on Scientific Computing, 41(1): B1-B26, 2019.<br>[[paper]](https://team-of-zhengliu.github.io/open-website/papers/(SISC19)Triangulated%20Surface%20Denoising%20using%20High%20Order%20Regularization%20with%20Dynamic%20Weights.pdf)   [[code]](https://www.github.com)
 <div style="clear:both"></div>
 
 <img style="float:left;" src="https://team-of-zhengliu.github.io/open-website/images/paper-2.png"> 
