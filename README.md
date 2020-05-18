@@ -51,13 +51,14 @@
 日后可以改造介绍某些文章的具体展示，现在只提供下载链接
 ```
 
-<img style="float:left;" src="https://team-of-zhengliu.github.io/open-website/images/paper-1.png"></img>  
-    [1][Zheng Liu, Rongjie Lai, Huayan Zhang, Chunlin Wu, “Triangulated Surface Denoising using High Order Regularization with Dynamic Weights”, SIAM Journal on Scientific Computing, 41(1): B1-B26, 2019.](https://team-of-zhengliu.github.io/open-website/papers/(SISC19)Triangulated%20Surface%20Denoising%20using%20High%20Order%20Regularization%20with%20Dynamic%20Weights.pdf)
+<img style="float:left;" src="https://team-of-zhengliu.github.io/open-website/images/paper-1.png"> 
+[1][Zheng Liu, Rongjie Lai, Huayan Zhang, Chunlin Wu, “Triangulated Surface Denoising using High Order Regularization with Dynamic Weights”, SIAM Journal on Scientific Computing, 41(1): B1-B26, 2019.](https://team-of-zhengliu.github.io/open-website/papers/(SISC19)Triangulated%20Surface%20Denoising%20using%20High%20Order%20Regularization%20with%20Dynamic%20Weights.pdf)
 <div style="clear:both"></div>
 
-[1][Zheng Liu, Rongjie Lai, Huayan Zhang, Chunlin Wu, “Triangulated Surface Denoising using High Order Regularization with Dynamic Weights”, SIAM Journal on Scientific Computing, 41(1): B1-B26, 2019.](https://team-of-zhengliu.github.io/open-website/papers/(SISC19)Triangulated%20Surface%20Denoising%20using%20High%20Order%20Regularization%20with%20Dynamic%20Weights.pdf)
-
+<img style="float:left;" src="https://team-of-zhengliu.github.io/open-website/images/paper-2.png"> 
 [2][Zheng Liu, Saishang Zhong, Zhong Xie, Weina Wang, “A Novel Anisotropic Second Order Regularziation for Mesh Denoising”, Computer Aided Geometric Design, 71(2019):190-201.](https://team-of-zhengliu.github.io/open-website/papers/(CAGD19)A%20Novel%20Anisotropic%20Second%20Order%20Regularization%20for%20Mesh%20Denoising.pdf)
+<div style="clear:both"></div>
+
 
 [3][Saishang Zhong, Zhong Xie, Jinqin Liu, Zheng Liu, “Robust Mesh Denoising via Triple Sparsity", Sensors, 19(5): 1001, 2019.](https://team-of-zhengliu.github.io/open-website/papers/(Sensors19)Robust%20Mesh%20Denoising%20via%20Triple%20Sparsity.pdf)
 
