@@ -1,12 +1,3 @@
-**目录**
-1. [Introduction](#introduction)
-2. [What's New](#whats-new)
-3. [Dr.Liu's Profile](#drlius-profile)
-4. [Publication](#publication)
-5. [Related Downloads](#related-downloads)
-6. [Misc](#misc)
-7. [License](#license)
-
 # Introduction
 
 ```
