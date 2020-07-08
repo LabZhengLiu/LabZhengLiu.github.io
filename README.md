@@ -14,10 +14,7 @@
 
 ## About Me <!-- omit in toc -->
 
-<img style="float:left;" src="https://LabZhengLiu.github.io/LabZhengLiu.github.io/images/2.jpg">
-<br>
-<br>
-<br>
+<img style="float:left;" width="200" src="https://LabZhengLiu.github.io/LabZhengLiu.github.io/images/2.jpg">
 <div style="float:right;">
 <ul>
     <li>
