@@ -1,14 +1,7 @@
-# Latest News
-
-- Mar.2020: Two papers are accepted by SPM 2020.
-
-# Dr.Liu's Profile
-
-## About Me
+# Zheng liu
 
 <img style="float:left;" src="https://LabZhengLiu.github.io/LabZhengLiu.github.io/images/headImage.jpg">
 <div style="float:right;">
-<h1>Zheng Liu</h1>
 <br>
 National Engineering Research Center of Geographic 
 <br>
@@ -20,25 +13,26 @@ Information System, China University of Geoscience (Wuhan).
 
 <div style="clear:both"></div>
 
-## Education and Work Experience
+# Latest News
 
-- **2015.03－至今**：中国地质大学（武汉），信息工程学院；讲师
-- **2013.01－2015.02**：中国科学与技术大学，数学科学院；博士后，合作导师：刘利刚教授（百人计划）
-- **2009.09－2012.12**：华中师范大学，国家数字化学习工程技术研究中心；教育技术学，博士，指导老师：张景中院士
-- **2006.09－2009.07**：中国地质大学（武汉），信息工程学院；计算机应用，硕士，指导老师：谢忠教授
-- **2002.09－2006.07**：中国地质大学（武汉），信息工程学院；软件工程，学士
+- Mar.2020: Two papers are accepted by SPM 2020.
 
-## Field of Research
+# Research Interests
 
-- **数字几何处理**: 具体包括三角网格和点云的滤波、分割、修补、参数化和变形等问题的研究。
-- **计算机视觉(low level）**：具体包括图像的滤波、分割和光照分解等问题的研究。
-- **数值优化和科学计算**：具体包括全变分(total variation)模型的应用研究，高阶变分模型的设计和求解算法研究，非凸非光滑模型的设计和快速求解算法研究，测地曲率流(level set)的研究等。
+My research interests fall into the areas of computer graphics, image processing, scientific computing, and etc.
 
-# Publication
+More specifically, I am interested in the following topics:
 
-```
-日后可以改造介绍某些文章的具体展示，现在只提供下载链接
-```
+- Geometry Processing: Mesh denoising, Point cloud filtering/reconstruction, Registration, Mesh/Point cloud segmentation.
+- Image Processing: Image denoising, Image segmentation.
+- 3D Deep Learning: Indoor scene detection/segmentation/labeling.
+- Numerical Optimization: Sparse optimization, Low rank optimization.
+
+# Professional Activites
+
+Paper reviewer: IEEE TVCG, CAD, CGF, CAGD, VC, IEEE Computer Graphics and Applications, JCAM, IEEE ACCESS
+
+# Selected Publications [[Google Scholar](https://scholar.google.com/citations?user=_jtNrOUAAAAJ&hl=zh-CN), [Researchgate](https://www.researchgate.net/profile/Zheng_Liu52)]
 
 <img style="float:left;" src="https://LabZhengLiu.github.io/LabZhengLiu.github.io/images/1.png"> 
 [12]Zheng Liu, Guanhan Liu, Mao Chen, “Design of Parameterized Model for a 3D Dynamic Geometry System”, Advances in Information Sciences and Services Sciences, 4(13): 126-134, 2012.<br>[[paper]](https://LabZhengLiu.github.io/papers/(CAD20)Mesh%20Denoising%20via%20a%20Novel%20Mumford–Shah%20Framework.pdf) [[code]](https://www.github.com)
