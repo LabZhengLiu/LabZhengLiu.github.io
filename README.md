@@ -71,19 +71,19 @@ Paper reviewer: IEEE TVCG, CAD, CGF, CAGD, VC, IEEE Computer Graphics and Applic
 <div style="clear:both"></div>
 
 <img style="float:left;" src="https://LabZhengLiu.github.io/LabZhengLiu.github.io/images/1.png"> 
-[12]Zheng Liu, Guanhan Liu, Mao Chen, “Design of Parameterized Model for a 3D Dynamic Geometry System”, Advances in Information Sciences and Services Sciences, 4(13): 126-134, 2012.<br>[[paper]](https://LabZhengLiu.github.io/papers/(TIP17)Illumination%20Decomposition%20for%20Photograph%20with%20Multiple%20Light%20Sources.pdf) [[code]](https://www.github.com)
+[4] Ling Zhang, Qingan Yan, Zheng Liu, Hua Zou, Chunxia Xiao, “Illumination Decomposition for Photograph with Multiple Light Sources”, IEEE Transactions on Image Processing, 2017. <br>[[paper]](https://LabZhengLiu.github.io/papers/(TIP17)Illumination%20Decomposition%20for%20Photograph%20with%20Multiple%20Light%20Sources.pdf) [[code]](https://www.github.com)
 <div style="clear:both"></div>
 
 <img style="float:left;" src="https://LabZhengLiu.github.io/LabZhengLiu.github.io/images/1.png"> 
-[12]Zheng Liu, Guanhan Liu, Mao Chen, “Design of Parameterized Model for a 3D Dynamic Geometry System”, Advances in Information Sciences and Services Sciences, 4(13): 126-134, 2012.<br>[[paper]](https://LabZhengLiu.github.io/papers/(JSC16)On%20Geodesic%20Curvature%20Flow%20with%20Level%20Set%20Formulation%20Over%20Triangulated%20Surfaces.pdf) [[code]](https://www.github.com)
+[3] Huayan Zhang, Chunlin Wu, Jiansong Deng, Zheng Liu, Yuning Yang, “A New Two-stage Mesh Surface Segmentation Method”, The Visual Computer, 2017.<br>[[paper]](https://LabZhengLiu.github.io/papers/(JSC16)On%20Geodesic%20Curvature%20Flow%20with%20Level%20Set%20Formulation%20Over%20Triangulated%20Surfaces.pdf) [[code]](https://www.github.com)
 <div style="clear:both"></div>
 
 <img style="float:left;" src="https://LabZhengLiu.github.io/LabZhengLiu.github.io/images/1.png"> 
- [2] Chunxue Wang, **Zheng Liu<sup>★</sup>**, Ligang Liu, “As-rigid-as-possible Spherical Parametrization”, **Graphical Models (Proc. GMP2014)**, 76(5): 4457-467, 2014.<br>[[paper]](https://LabZhengLiu.github.io/papers/(GMP14)As-Rigid-As-Possible%20Spherical%20Parametrization.pdf) [[code]](https://www.github.com)
+ [2] Chunxue Wang, **Zheng Liu<sup>★</sup>**, Ligang Liu, “As-rigid-as-possible Spherical Parametrization”, **Graphical Models (Proc. GMP2014)**, 2014.<br>[[paper]](https://LabZhengLiu.github.io/papers/(GMP14)As-Rigid-As-Possible%20Spherical%20Parametrization.pdf) [[code]](https://www.github.com)
 <div style="clear:both"></div>
 
 <img style="float:left;" src="https://LabZhengLiu.github.io/LabZhengLiu.github.io/images/1.png"> 
- [1] **Zheng Liu**, Weiming Wang, Xiuping Liu, Ligang Liu, “Scale-Aware Shape Manipulation”, **Journal of Zhejiang University Science C (Computers & Electronics)**, 15(9): 764-775, 2014.<br>[[paper]](https://LabZhengLiu.github.io/papers/(ZJUS14)Scale-aware%20shape%20manipulation.pdf) [[code]](https://www.github.com)
+ [1] **Zheng Liu**, Weiming Wang, Xiuping Liu, Ligang Liu, “Scale-Aware Shape Manipulation”, **Journal of Zhejiang University Science C (Computers & Electronics)**, 2014.<br>[[paper]](https://LabZhengLiu.github.io/papers/(ZJUS14)Scale-aware%20shape%20manipulation.pdf) [[code]](https://www.github.com)
 <div style="clear:both"></div>
 
 ---
