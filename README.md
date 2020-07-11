@@ -47,7 +47,7 @@ Paper reviewer: IEEE TVCG, CAD, CGF, CAGD, VC, IEEE Computer Graphics and Applic
 <div style="clear:both"></div>
 
 <img style="float:left;" src="https://LabZhengLiu.github.io/LabZhengLiu.github.io/images/1.png"> 
-[11] **Zheng Liu**, Mingqiang Guo, Zhong Xie, Jinqin Liu, Bohong Zeng，“High Order Mesh Denoising via LP-L1 Minimization”，**IEEE ACCESS**,2019.
+[11] **Zheng Liu**, Mingqiang Guo, Zhong Xie, Jinqin Liu, Bohong Zeng，“High Order Mesh Denoising via LP-L1 Minimization”，**IEEE ACCESS**, 2019.
 <br>[[paper]](https://LabZhengLiu.github.io/papers/(ACCESS19)High%20Order%20Mesh%20Denoising%20via%20LP-L1%20Minimization.pdf) [[code]](https://www.github.com)
 <div style="clear:both"></div>
 
