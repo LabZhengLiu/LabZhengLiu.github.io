@@ -15,7 +15,7 @@ Information System, China University of Geoscience (Wuhan).
 
 # Latest News
 
-- Mar.2020: Two papers are accepted by SPM 2020.
+- <font size="3" color="red">Mar.2020: Two papers are accepted by SPM 2020</font>.
 
 # Research Interests
 
