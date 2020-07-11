@@ -35,19 +35,25 @@ Paper reviewer: IEEE TVCG, CAD, CGF, CAGD, VC, IEEE Computer Graphics and Applic
 # Selected Publications [[Google Scholar](https://scholar.google.com/citations?user=_jtNrOUAAAAJ&hl=zh-CN), [Researchgate](https://www.researchgate.net/profile/Zheng_Liu52)]
 
 <img style="float:left;" src="https://LabZhengLiu.github.io/LabZhengLiu.github.io/images/1.png"> 
-[12]Zheng Liu, Guanhan Liu, Mao Chen, “Design of Parameterized Model for a 3D Dynamic Geometry System”, Advances in Information Sciences and Services Sciences, 4(13): 126-134, 2012.<br>[[paper]](https://LabZhengLiu.github.io/papers/(CAD20)Mesh%20Denoising%20via%20a%20Novel%20Mumford–Shah%20Framework.pdf) [[code]](https://www.github.com)
+[13] Zheng Liu，Weina Wang, Saishang Zhong, Bohong Zeng, Jinqin Liu, Weiming Wang, “Mesh Denoising via a Novel Mumford-Shah Framework”, Computer-Aided Design (Proc. SPM2020), 2020.
+<br>[[paper]](https://LabZhengLiu.github.io/papers/(CAD20)Mesh%20Denoising%20via%20a%20Novel%20Mumford–Shah%20Framework.pdf) 
+    [[code]](https://www.github.com)
 <div style="clear:both"></div>
 
 <img style="float:left;" src="https://LabZhengLiu.github.io/LabZhengLiu.github.io/images/1.png"> 
-[12]Zheng Liu, Guanhan Liu, Mao Chen, “Design of Parameterized Model for a 3D Dynamic Geometry System”, Advances in Information Sciences and Services Sciences, 4(13): 126-134, 2012.<br>[[paper]](https://LabZhengLiu.github.io/papers/(CAD20)A%20feature-preserving%20framework%20for%20point%20cloud%20denoising.pdf) [[code]](https://www.github.com)
+[12] Zheng Liu，Xiaowen Xiao, Saishang Zhong, Weina Wang, Yanlei Li, Ling Zhang, Zhong Xie, “A Feature-preserving Framework for Point Cloud Denoising”, Computer-Aided Design (Proc. SPM2020), 2020.
+<br>[[paper]](https://LabZhengLiu.github.io/papers/(CAD20)A%20feature-preserving%20framework%20for%20point%20cloud%20denoising.pdf) 
+    [[code]](https://www.github.com)
 <div style="clear:both"></div>
 
 <img style="float:left;" src="https://LabZhengLiu.github.io/LabZhengLiu.github.io/images/1.png"> 
-[12]Zheng Liu, Guanhan Liu, Mao Chen, “Design of Parameterized Model for a 3D Dynamic Geometry System”, Advances in Information Sciences and Services Sciences, 4(13): 126-134, 2012.<br>[[paper]](https://LabZhengLiu.github.io/papers/(ACCESS19)High%20Order%20Mesh%20Denoising%20via%20LP-L1%20Minimization.pdf) [[code]](https://www.github.com)
+[11] Zheng Liu, Mingqiang Guo, Zhong Xie, Jinqin Liu, Bohong Zeng，“High Order Mesh Denoising via LP-L1 Minimization”，IEEE ACCESS,2019.
+<br>[[paper]](https://LabZhengLiu.github.io/papers/(ACCESS19)High%20Order%20Mesh%20Denoising%20via%20LP-L1%20Minimization.pdf) [[code]](https://www.github.com)
 <div style="clear:both"></div>
 
 <img style="float:left;" src="https://LabZhengLiu.github.io/LabZhengLiu.github.io/images/1.png"> 
-[12]Zheng Liu, Guanhan Liu, Mao Chen, “Design of Parameterized Model for a 3D Dynamic Geometry System”, Advances in Information Sciences and Services Sciences, 4(13): 126-134, 2012.<br>[[paper]](https://LabZhengLiu.github.io/papers/(CAGD19)A%20Novel%20Anisotropic%20Second%20Order%20Regularization%20for%20Mesh%20Denoising.pdf) [[code]](https://www.github.com)
+[10] Zheng Liu, Saishang Zhong, Zhong Xie, Weina Wang, “A Novel Anisotropic Second Order Regularziation for Mesh Denoising”, Computer Aided Geometric Design (Proc. GMP2019), 2019. 
+<br>[[paper]](https://LabZhengLiu.github.io/papers/(CAGD19)A%20Novel%20Anisotropic%20Second%20Order%20Regularization%20for%20Mesh%20Denoising.pdf) [[code]](https://www.github.com)
 <div style="clear:both"></div>
 
 <img style="float:left;" src="https://LabZhengLiu.github.io/LabZhengLiu.github.io/images/1.png"> 
@@ -57,7 +63,8 @@ Paper reviewer: IEEE TVCG, CAD, CGF, CAGD, VC, IEEE Computer Graphics and Applic
 <div style="clear:both"></div>
 
 <img style="float:left;" src="https://LabZhengLiu.github.io/LabZhengLiu.github.io/images/1.png"> 
-[8]Zheng Liu, Guanhan Liu, Mao Chen, “Design of Parameterized Model for a 3D Dynamic Geometry System”, Advances in Information Sciences and Services Sciences, 4(13): 126-134, 2012.<br>[[paper]](https://LabZhengLiu.github.io/papers/(SISC19)Triangulated%20Surface%20Denoising%20using%20High%20Order%20Regularization%20with%20Dynamic%20Weights.pdf) [[code]](https://www.github.com)
+[8] Zheng Liu, Rongjie Lai, Huayan Zhang, Chunlin Wu, “Triangulated Surface Denoising using High Order Regularization with Dynamic Weights”, SIAM Journal on Scientific Computing, 2019.
+<br>[[paper]](https://LabZhengLiu.github.io/papers/(SISC19)Triangulated%20Surface%20Denoising%20using%20High%20Order%20Regularization%20with%20Dynamic%20Weights.pdf) [[code]](https://www.github.com)
 <div style="clear:both"></div>
 
 <img style="float:left;" src="https://LabZhengLiu.github.io/LabZhengLiu.github.io/images/1.png"> 
