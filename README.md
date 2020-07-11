@@ -79,11 +79,11 @@ Paper reviewer: IEEE TVCG, CAD, CGF, CAGD, VC, IEEE Computer Graphics and Applic
 <div style="clear:both"></div>
 
 <img style="float:left;" src="https://LabZhengLiu.github.io/LabZhengLiu.github.io/images/1.png"> 
-[12]Zheng Liu, Guanhan Liu, Mao Chen, “Design of Parameterized Model for a 3D Dynamic Geometry System”, Advances in Information Sciences and Services Sciences, 4(13): 126-134, 2012.<br>[[paper]](https://LabZhengLiu.github.io/papers/(GMP14)As-Rigid-As-Possible%20Spherical%20Parametrization.pdf) [[code]](https://www.github.com)
+[2]Chunxue Wang, **Zheng Liu★**, Ligang Liu, “As-rigid-as-possible Spherical Parametrization”, **Graphical Models (Proc. GMP2014)**, 76(5): 4457-467, 2014.<br>[[paper]](https://LabZhengLiu.github.io/papers/(GMP14)As-Rigid-As-Possible%20Spherical%20Parametrization.pdf) [[code]](https://www.github.com)
 <div style="clear:both"></div>
 
 <img style="float:left;" src="https://LabZhengLiu.github.io/LabZhengLiu.github.io/images/1.png"> 
-[12]Zheng Liu, Guanhan Liu, Mao Chen, “Design of Parameterized Model for a 3D Dynamic Geometry System”, Advances in Information Sciences and Services Sciences, 4(13): 126-134, 2012.<br>[[paper]](https://LabZhengLiu.github.io/papers/(ZJUS14)Scale-aware%20shape%20manipulation.pdf) [[code]](https://www.github.com)
+[1]**Zheng Liu**, Weiming Wang, Xiuping Liu, Ligang Liu, “Scale-Aware Shape Manipulation”, **Journal of Zhejiang University Science C (Computers & Electronics)**, 15(9): 764-775, 2014.<br>[[paper]](https://LabZhengLiu.github.io/papers/(ZJUS14)Scale-aware%20shape%20manipulation.pdf) [[code]](https://www.github.com)
 <div style="clear:both"></div>
 
 ---
