@@ -32,7 +32,7 @@ More specifically, I am interested in the following topics:
 
 Paper reviewer: IEEE TVCG, CAD, CGF, CAGD, VC, IEEE Computer Graphics and Applications, JCAM, IEEE ACCESS
 
-# Selected Publications [[Google Scholar](https://scholar.google.com/citations?user=_jtNrOUAAAAJ&hl=zh-CN), [Researchgate](https://www.researchgate.net/profile/Zheng_Liu52)]
+# Selected Publications [[Google Scholar]](https://scholar.google.com/citations?user=_jtNrOUAAAAJ&hl=zh-CN) [[Researchgate]](https://www.researchgate.net/profile/Zheng_Liu52)
 
 <img style="float:left;" src="https://LabZhengLiu.github.io/LabZhengLiu.github.io/images/1.png"> 
 [13] **Zheng Liu**，Weina Wang, Saishang Zhong, Bohong Zeng, Jinqin Liu, Weiming Wang, “Mesh Denoising via a Novel Mumford-Shah Framework”, ***Computer-Aided Design (Proc. SPM2020)***, 2020.
