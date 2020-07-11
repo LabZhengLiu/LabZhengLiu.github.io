@@ -12,9 +12,10 @@ National Engineering Research Center of Geographic Information System, China Unv
 
 # Dr.Liu's Profile
 
-## About Me <!-- omit in toc -->
+## About Me
 
 <img style="float:left;" src="https://LabZhengLiu.github.io/LabZhengLiu.github.io/images/2.jpg">
+<br>
 <br>
 <br>
 <div style="float:right;">
