@@ -1,4 +1,4 @@
-# Zheng Liu
+# Introduction
 
 ```
 National Engineering Research Center of Geographic Information System, China Unviersity of Geoscience (Wuhan)
@@ -6,9 +6,8 @@ National Engineering Research Center of Geographic Information System, China Unv
 
 # Latest News
 
-```** Mar.2020:Two papers are accepted by SPM 2020.
-这里放近期完成的一些工作
-```
+- Mar.2020:Two papers are accepted by SPM 2020.
+
 
 # Dr.Liu's Profile
 
