@@ -16,8 +16,11 @@ Information System, China University of Geoscience (Wuhan).
 </font>
 <br>
 <br>
+<br>
+<br>
+<br>
 <font size="5">
-<strong>Email</strong>：liu.zheng.jojo@gmail.com
+<strong>Email</strong>：[liu.zheng.jojo@gmail.com](https://mail.google.com/mail/u/0/#inbox)
 </font>
 </div>
 
@@ -25,7 +28,7 @@ Information System, China University of Geoscience (Wuhan).
 
 # Latest News
 
-- <font size="5" color="red">Mar.2020: Two papers are accepted by SPM 2020</font>.
+- <font size="5" color="red">Mar.2020: Two papers are accepted by SPM 2020.</font>
 
 # Research Interests
 
