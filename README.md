@@ -7,9 +7,12 @@
 ## About Me
 
 <img style="float:left;" src="https://LabZhengLiu.github.io/LabZhengLiu.github.io/images/headImage.jpg">
+<br>
 <div style="float:right;">
 <h1>Zheng Liu</h1>
-National Engineering Research Center of Geographic Information System, China University of Geoscience (Wuhan)
+National Engineering Research Center of Geographic 
+<br>
+Information System, China University of Geoscience (Wuhan)
 <br>
 <strong>Email</strong>：liu.zheng.jojo@gmail.com
 </div>
