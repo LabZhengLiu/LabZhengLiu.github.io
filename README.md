@@ -1,12 +1,12 @@
 # Zheng Liu
 
 ```
-School of Geography and Information Engineering, National Engineering Research Center of Geographic Information System, China Unviersity of Geoscience (Wuhan)
+National Engineering Research Center of Geographic Information System, China Unviersity of Geoscience (Wuhan)
 ```
 
-# What's New
+# Latest News
 
-```
+```** Mar.2020:Two papers are accepted by SPM 2020.
 这里放近期完成的一些工作
 ```
 
