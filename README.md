@@ -3,19 +3,29 @@
 <img style="float:left;" src="https://LabZhengLiu.github.io/LabZhengLiu.github.io/images/headImage.jpg">
 <div style="float:right;">
 <br>
+<font size="5">
+<strong>
 National Engineering Research Center of Geographic 
+</strong>
+</font>
 <br>
+<font size="5">
+<strong>
 Information System, China University of Geoscience (Wuhan).
+</strong>
+</font>
 <br>
 <br>
+<font size="5">
 <strong>Email</strong>：liu.zheng.jojo@gmail.com
+</font>
 </div>
 
 <div style="clear:both"></div>
 
 # Latest News
 
-- <font size="3" color="red">Mar.2020: Two papers are accepted by SPM 2020</font>.
+- <font size="5" color="red">Mar.2020: Two papers are accepted by SPM 2020</font>.
 
 # Research Interests
 
