@@ -14,7 +14,9 @@ National Engineering Research Center of Geographic Information System, China Unv
 
 ## About Me <!-- omit in toc -->
 
-<img style="float:left;" width="200" src="https://LabZhengLiu.github.io/LabZhengLiu.github.io/images/2.jpg">
+<img style="float:left;" src="https://LabZhengLiu.github.io/LabZhengLiu.github.io/images/2.jpg">
+<br>
+<br>
 <div style="float:right;">
 <ul>
     <li>
