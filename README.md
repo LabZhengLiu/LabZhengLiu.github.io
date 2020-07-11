@@ -1,9 +1,3 @@
-# Introduction
-
-```
-National Engineering Research Center of Geographic Information System, China Unviersity of Geoscience (Wuhan)
-```
-
 # Latest News
 
 - Mar.2020: Two papers are accepted by SPM 2020.
@@ -13,66 +7,16 @@ National Engineering Research Center of Geographic Information System, China Unv
 ## About Me
 
 <img style="float:left;" src="https://LabZhengLiu.github.io/LabZhengLiu.github.io/images/headImage.jpg">
-<br>
-<br>
-<br>
 <div style="float:right;">
-<ul>
-    <li>
-        <strong>
-            姓名
-        </strong>
-        ：刘郑
-    </li>
-    <br>
-    <li>
-        <strong>
-            出生年月
-        </strong>
-        ：1983.05
-    </li>
-    <br>
-    <li>
-        <strong>
-            单位
-        </strong>
-        ：
-        <a href="http://xgxy.cug.edu.cn/">
-            中国地质大学（武汉）信息工程学院
-        </a>
-    </li>
-    <br>
-    <li>
-        <strong>
-            通讯地址
-        </strong>
-        ：
-        <a href="https://www.google.com/search?q=%E6%B9%96%E5%8C%97%E7%9C%81%E6%AD%A6%E6%B1%89%E5%B8%82%E9%B2%81%E7%A3%A8%E8%B7%AF388%E5%8F%B7%EF%BC%8C%E9%82%AE%E7%BC%96430074&oq=%E6%B9%96%E5%8C%97%E7%9C%81%E6%AD%A6%E6%B1%89%E5%B8%82%E9%B2%81%E7%A3%A8%E8%B7%AF388%E5%8F%B7%EF%BC%8C%E9%82%AE%E7%BC%96430074&aqs=chrome..69i57.276j0j8&sourceid=chrome&ie=UTF-8">
-            湖北省武汉市鲁磨路388号，邮编430074
-        </a>
-    </li>
-    <br>
-    <li>
-        <strong>
-            电话
-        </strong>
-        ：在正式版发布前暂时不写防止信息泄露
-    </li>
-    <br>
-    <li>
-        <strong>
-            电子邮箱
-        </strong>
-        ：
-        <a href="liu.zheng.jojo@gmail.com">
-            liu.zheng.jojo@gmail.com
-        </a>
-    </li>
-</ul>
+<h1>Zheng Liu</h1>
+National Engineering Research Center of Geographic Information System, China University of Geoscience (Wuhan)
+<br>
+<strong>Email</strong>：liu.zheng.jojo@gmail.com
 </div>
+
 <div style="clear:both"></div>
 
-## Education and Work Experience <!-- omit in toc -->
+## Education and Work Experience
 
 - **2015.03－至今**：中国地质大学（武汉），信息工程学院；讲师
 - **2013.01－2015.02**：中国科学与技术大学，数学科学院；博士后，合作导师：刘利刚教授（百人计划）
@@ -80,7 +24,7 @@ National Engineering Research Center of Geographic Information System, China Unv
 - **2006.09－2009.07**：中国地质大学（武汉），信息工程学院；计算机应用，硕士，指导老师：谢忠教授
 - **2002.09－2006.07**：中国地质大学（武汉），信息工程学院；软件工程，学士
 
-## Field of Research <!-- omit in toc -->
+## Field of Research
 
 - **数字几何处理**: 具体包括三角网格和点云的滤波、分割、修补、参数化和变形等问题的研究。
 - **计算机视觉(low level）**：具体包括图像的滤波、分割和光照分解等问题的研究。
