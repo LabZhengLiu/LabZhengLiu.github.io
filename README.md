@@ -79,7 +79,7 @@ Paper reviewer: IEEE TVCG, CAD, CGF, CAGD, VC, IEEE Computer Graphics and Applic
 <div style="clear:both"></div>
 
 <img style="float:left;" src="https://LabZhengLiu.github.io/LabZhengLiu.github.io/images/1.png"> 
-[2]Chunxue Wang, **Zheng Liu★**, Ligang Liu, “As-rigid-as-possible Spherical Parametrization”, **Graphical Models (Proc. GMP2014)**, 76(5): 4457-467, 2014.<br>[[paper]](https://LabZhengLiu.github.io/papers/(GMP14)As-Rigid-As-Possible%20Spherical%20Parametrization.pdf) [[code]](https://www.github.com)
+[2]Chunxue Wang, **Zheng Liu<sup>★</sup>**, Ligang Liu, “As-rigid-as-possible Spherical Parametrization”, **Graphical Models (Proc. GMP2014)**, 76(5): 4457-467, 2014.<br>[[paper]](https://LabZhengLiu.github.io/papers/(GMP14)As-Rigid-As-Possible%20Spherical%20Parametrization.pdf) [[code]](https://www.github.com)
 <div style="clear:both"></div>
 
 <img style="float:left;" src="https://LabZhengLiu.github.io/LabZhengLiu.github.io/images/1.png"> 
