@@ -51,15 +51,18 @@ Paper reviewer: IEEE TVCG, CAD, CGF, CAGD, VC, IEEE Computer Graphics and Applic
 <div style="clear:both"></div>
 
 <img style="float:left;" src="https://LabZhengLiu.github.io/LabZhengLiu.github.io/images/1.png"> 
-[12]Zheng Liu, Guanhan Liu, Mao Chen, “Design of Parameterized Model for a 3D Dynamic Geometry System”, Advances in Information Sciences and Services Sciences, 4(13): 126-134, 2012.<br>[[paper]](https://LabZhengLiu.github.io/papers/(Sensors19)Robust%20Mesh%20Denoising%20via%20Triple%20Sparsity.pdf) [[code]](https://www.github.com)
+[9] Saishang Zhong, Zhong Xie, Jinqin Liu, Zheng Liu, “Robust Mesh Denoising via Triple Sparsity", Sensors, 2019.
+<br>[[paper]](https://LabZhengLiu.github.io/papers/(Sensors19)Robust%20Mesh%20Denoising%20via%20Triple%20Sparsity.pdf) 
+    [[code]](https://www.github.com)
 <div style="clear:both"></div>
 
 <img style="float:left;" src="https://LabZhengLiu.github.io/LabZhengLiu.github.io/images/1.png"> 
-[12]Zheng Liu, Guanhan Liu, Mao Chen, “Design of Parameterized Model for a 3D Dynamic Geometry System”, Advances in Information Sciences and Services Sciences, 4(13): 126-134, 2012.<br>[[paper]](https://LabZhengLiu.github.io/papers/(SISC19)Triangulated%20Surface%20Denoising%20using%20High%20Order%20Regularization%20with%20Dynamic%20Weights.pdf) [[code]](https://www.github.com)
+[8]Zheng Liu, Guanhan Liu, Mao Chen, “Design of Parameterized Model for a 3D Dynamic Geometry System”, Advances in Information Sciences and Services Sciences, 4(13): 126-134, 2012.<br>[[paper]](https://LabZhengLiu.github.io/papers/(SISC19)Triangulated%20Surface%20Denoising%20using%20High%20Order%20Regularization%20with%20Dynamic%20Weights.pdf) [[code]](https://www.github.com)
 <div style="clear:both"></div>
 
 <img style="float:left;" src="https://LabZhengLiu.github.io/LabZhengLiu.github.io/images/1.png"> 
-[12]Zheng Liu, Guanhan Liu, Mao Chen, “Design of Parameterized Model for a 3D Dynamic Geometry System”, Advances in Information Sciences and Services Sciences, 4(13): 126-134, 2012.<br>[[paper]](https://LabZhengLiu.github.io/papers/(CASA18)Mesh%20denoising%20via%20total%20variation%20and%20weighted%20Laplacian%20regularizations.pdf) [[code]](https://www.github.com)
+[7] Saishang Zhong, Zhong Xie, Weina Wang, Zheng Liu and Ligang Liu, “Mesh Denoising via Total Variation and Weighted Laplacian Regularizations”, Journal Computer Animation and Virtual Worlds (Proc. CASA2018), 2018.
+<br>[[paper]](https://LabZhengLiu.github.io/papers/(CASA18)Mesh%20denoising%20via%20total%20variation%20and%20weighted%20Laplacian%20regularizations.pdf) [[code]](https://www.github.com)
 <div style="clear:both"></div>
 
 <img style="float:left;" src="https://LabZhengLiu.github.io/LabZhengLiu.github.io/images/1.png"> 
