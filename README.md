@@ -79,23 +79,23 @@ Paper reviewer: IEEE TVCG, CAD, CGF, CAGD, VC, IEEE Computer Graphics and Applic
 
 <img style="float:left;" src="https://LabZhengLiu.github.io/LabZhengLiu.github.io/images/1.png"> 
 [5] Zheng Liu, Huayan Zhang and Chunlin Wu, “On Geodesic Curvature Flow with Level Set Formulation Over Triangulated Surfaces”, Journal of Scientific Computing, 2017.
-<br>[[paper]](https://LabZhengLiu.github.io/papers/(CADCG17)基于条件迭代更新随机森林的非约束人脸特征点精确定位.pdf) [[code]](https://www.github.com)
+<br>[[paper]](https://LabZhengLiu.github.io/papers/(CADCG17)基于条件迭代更新随机森林的非约束人脸特征点精确定位.pdf) 
 <div style="clear:both"></div>
 
 <img style="float:left;" src="https://LabZhengLiu.github.io/LabZhengLiu.github.io/images/1.png"> 
-[4] Ling Zhang, Qingan Yan, Zheng Liu, Hua Zou, Chunxia Xiao, “Illumination Decomposition for Photograph with Multiple Light Sources”, IEEE Transactions on Image Processing, 2017. <br>[[paper]](https://LabZhengLiu.github.io/papers/(TIP17)Illumination%20Decomposition%20for%20Photograph%20with%20Multiple%20Light%20Sources.pdf) [[code]](https://www.github.com)
+[4] Ling Zhang, Qingan Yan, Zheng Liu, Hua Zou, Chunxia Xiao, “Illumination Decomposition for Photograph with Multiple Light Sources”, IEEE Transactions on Image Processing, 2017. <br>[[paper]](https://LabZhengLiu.github.io/papers/(TIP17)Illumination%20Decomposition%20for%20Photograph%20with%20Multiple%20Light%20Sources.pdf)
 <div style="clear:both"></div>
 
 <img style="float:left;" src="https://LabZhengLiu.github.io/LabZhengLiu.github.io/images/1.png"> 
-[3] Huayan Zhang, Chunlin Wu, Jiansong Deng, Zheng Liu, Yuning Yang, “A New Two-stage Mesh Surface Segmentation Method”, The Visual Computer, 2017.<br>[[paper]](https://LabZhengLiu.github.io/papers/(JSC16)On%20Geodesic%20Curvature%20Flow%20with%20Level%20Set%20Formulation%20Over%20Triangulated%20Surfaces.pdf) [[code]](https://www.github.com)
+[3] Huayan Zhang, Chunlin Wu, Jiansong Deng, Zheng Liu, Yuning Yang, “A New Two-stage Mesh Surface Segmentation Method”, The Visual Computer, 2017.<br>[[paper]](https://LabZhengLiu.github.io/papers/(JSC16)On%20Geodesic%20Curvature%20Flow%20with%20Level%20Set%20Formulation%20Over%20Triangulated%20Surfaces.pdf)
 <div style="clear:both"></div>
 
 <img style="float:left;" src="https://LabZhengLiu.github.io/LabZhengLiu.github.io/images/1.png"> 
- [2] Chunxue Wang, **Zheng Liu<sup>★</sup>**, Ligang Liu, “As-rigid-as-possible Spherical Parametrization”, **Graphical Models (Proc. GMP2014)**, 2014.<br>[[paper]](https://LabZhengLiu.github.io/papers/(GMP14)As-Rigid-As-Possible%20Spherical%20Parametrization.pdf) [[code]](https://www.github.com)
+ [2] Chunxue Wang, **Zheng Liu<sup>★</sup>**, Ligang Liu, “As-rigid-as-possible Spherical Parametrization”, **Graphical Models (Proc. GMP2014)**, 2014.<br>[[paper]](https://LabZhengLiu.github.io/papers/(GMP14)As-Rigid-As-Possible%20Spherical%20Parametrization.pdf)
 <div style="clear:both"></div>
 
 <img style="float:left;" src="https://LabZhengLiu.github.io/LabZhengLiu.github.io/images/1.png"> 
- [1] **Zheng Liu**, Weiming Wang, Xiuping Liu, Ligang Liu, “Scale-Aware Shape Manipulation”, **Journal of Zhejiang University Science C (Computers & Electronics)**, 2014.<br>[[paper]](https://LabZhengLiu.github.io/papers/(ZJUS14)Scale-aware%20shape%20manipulation.pdf) [[code]](https://www.github.com)
+ [1] **Zheng Liu**, Weiming Wang, Xiuping Liu, Ligang Liu, “Scale-Aware Shape Manipulation”, **Journal of Zhejiang University Science C (Computers & Electronics)**, 2014.<br>[[paper]](https://LabZhengLiu.github.io/papers/(ZJUS14)Scale-aware%20shape%20manipulation.pdf)
 <div style="clear:both"></div>
 
 ---
