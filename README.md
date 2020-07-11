@@ -15,9 +15,6 @@ Information System, China University of Geoscience (Wuhan).
 </strong>
 </font>
 <br>
-<br>
-<br>
-<br>
 <font size="5">
 <strong>Email</strong>：<a href="https://mail.google.com/mail/u/0/#inbox">liu.zheng.jojo@gmail.com</a>
 </font>
