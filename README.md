@@ -81,7 +81,7 @@ Paper reviewer
 <br>
 
 <img style="float:left;" width="400" src="https://LabZhengLiu.github.io/LabZhengLiu.github.io/images/Paper-12.png"> 
-&nbsp;[12] **Zheng Liu**, Xiaowen Xiao, Saishang Zhong, Weina Wang, Yanlei Li, Ling Zhang, Zhong Xie
+&nbsp;[12] **Zheng Liu**, Xiaowen Xiao, Saishang Zhong, Weina Wang, Yanlei Li, Ling &nbsp;Zhang, Zhong Xie
 <br>
 &nbsp;A Feature-preserving Framework for Point Cloud Denoising
 <br>
@@ -126,7 +126,7 @@ Paper reviewer
 <img style="float:left;" width="400" src="https://LabZhengLiu.github.io/LabZhengLiu.github.io/images/Paper-8.png"> 
 &nbsp;[8] **Zheng Liu**, Rongjie Lai, Huayan Zhang, Chunlin Wu
 <br>
-&nbsp;Triangulated Surface Denoising using High Order Regularization with Dynamic Weights
+&nbsp;Triangulated Surface Denoising using High Order Regularization with Dynamic &nbsp;Weights
 <br>
 &nbsp;***SIAM Journal on Scientific Computing***, 2019.
 <br>&nbsp;[[paper]](https://LabZhengLiu.github.io/papers/(SISC19)Triangulated%20Surface%20Denoising%20using%20High%20Order%20Regularization%20with%20Dynamic%20Weights.pdf) 
@@ -158,7 +158,7 @@ Paper reviewer
 <img style="float:left;" width="400" src="https://LabZhengLiu.github.io/LabZhengLiu.github.io/images/Paper-5.png"> 
 &nbsp;[5] **Zheng Liu**, Huayan Zhang and Chunlin Wu
 <br>
-&nbsp;On Geodesic Curvature Flow with Level Set Formulation Over Triangulated Surfaces
+&nbsp;On Geodesic Curvature Flow with Level Set Formulation Over Triangulated &nbsp;Surfaces
 <br>
 &nbsp;***Journal of Scientific Computing***, 2017.
 <br>&nbsp;[[paper]](https://github.com/LabZhengLiu/LabZhengLiu.github.io/blob/master/papers/(JSC16)On%20Geodesic%20Curvature%20Flow%20with%20Level%20Set%20Formulation%20Over%20Triangulated%20Surfaces.pdf) 
