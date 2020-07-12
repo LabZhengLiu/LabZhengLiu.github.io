@@ -52,6 +52,7 @@ Image Processing: Image denoising, Image segmentation.
 <li>
 Numerical Optimization: Sparse optimization, Low rank optimization.
 </li>
+</ul>
 </font>
 
 # Professional Activites
