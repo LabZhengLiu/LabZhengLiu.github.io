@@ -36,12 +36,23 @@ China University of Geoscience (Wuhan),
 - <font size="5" color="red">Apr.2020: Two papers are accepted by Computer-Aided Design (SPM 2020).</font>
 
 # Research Interests
+<font size="4">
 My research interests fall into the areas of computer graphics, image processing, scientific computing, and etc.
 More specifically, I am interested in the following topics:
-- Geometry Processing: Mesh denoising, Point cloud filtering/reconstruction, Registration, Mesh/Point cloud segmentation.
-- Image Processing: Image denoising, Image segmentation.
-- 3D Deep Learning: Indoor scene detection/segmentation/labeling.
-- Numerical Optimization: Sparse optimization, Low rank optimization.
+<ul>
+<li>
+Geometry Processing: Mesh denoising, Point cloud filtering/reconstruction, Registration, Mesh/Point cloud segmentation.
+</li>
+<li>
+Image Processing: Image denoising, Image segmentation.
+</li>
+<li>
+3D Deep Learning: Indoor scene detection/segmentation/labeling.
+</li>
+<li>
+Numerical Optimization: Sparse optimization, Low rank optimization.
+</li>
+</font>
 
 # Professional Activites
 
@@ -57,10 +68,12 @@ Paper reviewer
 # Selected Publications [[Google Scholar]](https://scholar.google.com/citations?user=_jtNrOUAAAAJ&hl=zh-CN) [[Researchgate]](https://www.researchgate.net/profile/Zheng_Liu52)
 
 <img style="float:left;" width="400" src="https://LabZhengLiu.github.io/LabZhengLiu.github.io/images/Paper-13.png"> 
-[13] **Zheng Liu**, Weina Wang, Saishang Zhong, Bohong Zeng, Jinqin Liu, Weiming Wang, “Mesh Denoising via a Novel Mumford-Shah Framework”, 
+ [13] **Zheng Liu**, Weina Wang, Saishang Zhong, Bohong Zeng, Jinqin Liu, Weiming Wang
+ <br>
+ Mesh Denoising via a Novel Mumford-Shah Framework
 <br>
-***Computer-Aided Design (Proc. SPM2020)***, 2020.
-<br>[[paper]](https://LabZhengLiu.github.io/papers/(CAD20)Mesh%20Denoising%20via%20a%20Novel%20Mumford–Shah%20Framework.pdf) 
+ ***Computer-Aided Design (Proc. SPM2020)***, 2020.
+<br> [[paper]](https://LabZhengLiu.github.io/papers/(CAD20)Mesh%20Denoising%20via%20a%20Novel%20Mumford–Shah%20Framework.pdf) 
     [[code]](https://www.github.com)
 <div style="clear:both"></div>
 <br>
