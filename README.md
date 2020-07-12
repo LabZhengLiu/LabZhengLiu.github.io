@@ -5,7 +5,7 @@
 <br>
 <font size="5">
 <strong>
-National Engineering Research Center of Geographic 
+Associate Research Profeesor, National Engineering Research Center of Geographic 
 </strong>
 </font>
 <br>
