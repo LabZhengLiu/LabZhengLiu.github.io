@@ -5,13 +5,13 @@
 <br>
 <font size="5">
 <strong>
-Associate Research Professor, National Engineering Research Center of Geographic 
+Associate Research Professor,  
 </strong>
 </font>
 <br>
 <font size="5">
 <strong>
-Information System, China University of Geoscience (Wuhan).
+National Engineering Research Center of Geographic Information System, China University of Geoscience (Wuhan).
 </strong>
 </font>
 <br>
