@@ -1,9 +1,14 @@
 <img style="float:left;" src="https://LabZhengLiu.github.io/LabZhengLiu.github.io/images/headImage.jpg">
 <div style="float:right;">
 <br>
-<font size="5">
+<font size="5" color="red">
 <strong>
-Zheng liu, Associate Research Professor,  
+Zheng liu
+</strong>
+</font>
+<font size="5" color="red">
+<strong>
+, Associate Research Professor,  
 </strong>
 </font>
 <br>
@@ -32,6 +37,7 @@ China University of Geoscience (Wuhan),
 
 # Research Interests
 
+<font size="5">
 My research interests fall into the areas of computer graphics, image processing, scientific computing, and etc.
 
 More specifically, I am interested in the following topics:
@@ -40,14 +46,22 @@ More specifically, I am interested in the following topics:
 - Image Processing: Image denoising, Image segmentation.
 - 3D Deep Learning: Indoor scene detection/segmentation/labeling.
 - Numerical Optimization: Sparse optimization, Low rank optimization.
+</font>
 
 # Professional Activites
 
-Paper reviewer: IEEE TVCG, CAD, CGF, CAGD, VC, IEEE Computer Graphics and Applications, JCAM, IEEE ACCESS
+<font size="5">
+<strong>
+Paper reviewer
+</strong>
+</font>
+<font size="5">
+: IEEE TVCG, CAD, CGF, CAGD, VC, IEEE Computer Graphics and Applications, JCAM, IEEE ACCESS
+</font>
 
 # Selected Publications [[Google Scholar]](https://scholar.google.com/citations?user=_jtNrOUAAAAJ&hl=zh-CN) [[Researchgate]](https://www.researchgate.net/profile/Zheng_Liu52)
 
-<img style="float:left;" width="200" src="https://LabZhengLiu.github.io/LabZhengLiu.github.io/images/Paper-13.png"> 
+<img style="float:left;" width="400" src="https://LabZhengLiu.github.io/LabZhengLiu.github.io/images/Paper-13.png"> 
 [13] **Zheng Liu**, Weina Wang, Saishang Zhong, Bohong Zeng, Jinqin Liu, Weiming Wang, “Mesh Denoising via a Novel Mumford-Shah Framework”, ***Computer-Aided Design (Proc. SPM2020)***, 2020.
 <br>[[paper]](https://LabZhengLiu.github.io/papers/(CAD20)Mesh%20Denoising%20via%20a%20Novel%20Mumford–Shah%20Framework.pdf) 
     [[code]](https://www.github.com)
