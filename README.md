@@ -89,7 +89,7 @@ Paper reviewer: IEEE TVCG, CAD, CGF, CAGD, VC, IEEE Computer Graphics and Applic
 <br>[[paper]](https://LabZhengLiu.github.io/papers/(CADCG17)基于条件迭代更新随机森林的非约束人脸特征点精确定位.pdf) 
 <div style="clear:both"></div>
 
-<img style="float:left;" src="https://LabZhengLiu.github.io/LabZhengLiu.github.io/images/1.png"> 
+<img style="float:left;" src="https://github.com/LabZhengLiu/LabZhengLiu.github.io/blob/master/images/JSC17.png"> 
 [5] **Zheng Liu**, Huayan Zhang and Chunlin Wu, “On Geodesic Curvature Flow with Level Set Formulation Over Triangulated Surfaces”, ***Journal of Scientific Computing***, 2017.
 <br>[[paper]](https://github.com/LabZhengLiu/LabZhengLiu.github.io/blob/master/papers/(JSC16)On%20Geodesic%20Curvature%20Flow%20with%20Level%20Set%20Formulation%20Over%20Triangulated%20Surfaces.pdf) 
 <div style="clear:both"></div>
