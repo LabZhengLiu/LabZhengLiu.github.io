@@ -12,7 +12,6 @@ Associate Research Professor,
 <font size="5">
 <strong>
 National Engineering Research Center of GIS,
-<br>
 China University of Geoscience (Wuhan).
 </strong>
 </font>
