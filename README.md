@@ -42,10 +42,10 @@ My research interests fall into the areas of computer graphics, image processing
 
 More specifically, I am interested in the following topics:
 
-- Geometry Processing: Mesh denoising, Point cloud filtering/reconstruction, Registration, Mesh/Point cloud segmentation.
-- Image Processing: Image denoising, Image segmentation.
-- 3D Deep Learning: Indoor scene detection/segmentation/labeling.
-- Numerical Optimization: Sparse optimization, Low rank optimization.
+* Geometry Processing: Mesh denoising, Point cloud filtering/reconstruction, Registration, Mesh/Point cloud segmentation.
+* Image Processing: Image denoising, Image segmentation.
+* 3D Deep Learning: Indoor scene detection/segmentation/labeling.
+* Numerical Optimization: Sparse optimization, Low rank optimization.
 </font>
 
 # Professional Activites
