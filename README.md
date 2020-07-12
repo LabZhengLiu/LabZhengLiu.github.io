@@ -11,9 +11,9 @@ Associate Research Professor,
 <br>
 <font size="5">
 <strong>
-National Engineering Research Center of 
+National Engineering Research Center of Geographic
 <br>
-Geographic Information System, China University of Geoscience (Wuhan).
+Information System, China University of Geoscience (Wuhan).
 </strong>
 </font>
 <br>
