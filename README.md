@@ -1,12 +1,12 @@
 <img style="float:left;" src="https://LabZhengLiu.github.io/LabZhengLiu.github.io/images/headImage.jpg">
 <div style="float:right;">
 <br>
-<font size="5" color="red">
+<font size="5">
 <strong>
 Zheng liu
 </strong>
 </font>
-<font size="5" color="red">
+<font size="5">
 <strong>
 , Associate Research Professor,  
 </strong>
