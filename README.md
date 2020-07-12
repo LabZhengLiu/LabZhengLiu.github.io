@@ -44,6 +44,9 @@ More specifically, I am interested in the following topics:
 2. Image Processing: Image denoising, Image segmentation.
 3. 3D Deep Learning: Indoor scene detection/segmentation/labeling.
 4. Numerical Optimization: Sparse optimization, Low rank optimization.
+* 第一项
+* 第二项
+* 第三项
 </font>
 
 # Professional Activites
