@@ -36,8 +36,6 @@ China University of Geoscience (Wuhan),
 - <font size="5" color="red">Apr.2020: Two papers are accepted by Computer-Aided Design (SPM 2020).</font>
 
 # Research Interests
-
-<font size="4">
 My research interests fall into the areas of computer graphics, image processing, scientific computing, and etc.
 More specifically, I am interested in the following topics:
 1. Geometry Processing: Mesh denoising, Point cloud filtering/reconstruction, Registration, Mesh/Point cloud segmentation.
@@ -47,7 +45,7 @@ More specifically, I am interested in the following topics:
 * 第一项
 * 第二项
 * 第三项
-</font>
+
 
 # Professional Activites
 
