@@ -76,7 +76,7 @@ Paper reviewer
 &nbsp;***Computer-Aided Design (Proc. SPM2020)***, 2020.
 <br>
 &nbsp;[[paper]](https://LabZhengLiu.github.io/papers/(CAD20)Mesh%20Denoising%20via%20a%20Novel%20Mumford–Shah%20Framework.pdf) 
-    [[code]](https://www.github.com)
+    [[code]](https://drive.google.com/file/d/1dy-IQ6D6D7uq1u_JcYSzhGvqdNgiAsqW/view?usp=sharing)
 <div style="clear:both"></div>
 <br>
 
@@ -109,7 +109,7 @@ Paper reviewer
 <br>
 &nbsp;***Computer Aided Geometric Design (Proc. GMP2019)***, 2019. 
 <br>&nbsp;[[paper]](https://LabZhengLiu.github.io/papers/(CAGD19)A%20Novel%20Anisotropic%20Second%20Order%20Regularization%20for%20Mesh%20Denoising.pdf) 
-    [[code]](https://www.github.com)
+    [[code]](https://drive.google.com/file/d/1dy-IQ6D6D7uq1u_JcYSzhGvqdNgiAsqW/view?usp=sharing)
 <div style="clear:both"></div>
 <br>
 
@@ -130,7 +130,7 @@ Paper reviewer
 <br>
 &nbsp;***SIAM Journal on Scientific Computing***, 2019.
 <br>&nbsp;[[paper]](https://LabZhengLiu.github.io/papers/(SISC19)Triangulated%20Surface%20Denoising%20using%20High%20Order%20Regularization%20with%20Dynamic%20Weights.pdf) 
-    [[code]](https://www.github.com)
+    [[code]](https://drive.google.com/file/d/1dy-IQ6D6D7uq1u_JcYSzhGvqdNgiAsqW/view?usp=sharing)
 <div style="clear:both"></div>
 <br>
 
