@@ -17,7 +17,7 @@ National Engineering Research Center of GIS,
 </font>
 <br>
 <font size="4">
-China University of Geoscience (Wuhan),
+China University of Geosciences (Wuhan),
 </font>
 <br>
 <font size="4">
