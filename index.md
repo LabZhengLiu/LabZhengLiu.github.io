@@ -1,4 +1,4 @@
-<img style="float:left;" src="https://LabZhengLiu.github.io/LabZhengLiu.github.io/images/headImage.jpg">
+<img style="float:left;" src="https://LabZhengLiu.github.io/LabZhengLiu.github.io/images/headImage.jpg" width="147.5px" height="214.5px">
 <div style="float:right;">
 <br>
 <font size="5">
