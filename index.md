@@ -1,5 +1,3 @@
-# Lab of ZhengLiu
-
 <img style="float:left;" src="https://LabZhengLiu.github.io/LabZhengLiu.github.io/images/headImage.jpg">
 <div style="float:right;">
 <br>
