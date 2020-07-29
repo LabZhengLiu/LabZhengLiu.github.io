@@ -1,5 +1,5 @@
 <img style="float:left;" src="https://LabZhengLiu.github.io/LabZhengLiu.github.io/images/headImage.jpg" width="190px" height="276.3px">
-<div style="float:right;">
+<div style="float:none;">
 <br>
 <font size="5">
 <strong>
