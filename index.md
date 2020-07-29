@@ -1,28 +1,23 @@
-<img style="float:left;" src="https://LabZhengLiu.github.io/LabZhengLiu.github.io/images/headImage.jpg" width="147.5px" height="214.5px">
+<img style="float:left;" src="https://LabZhengLiu.github.io/LabZhengLiu.github.io/images/headImage.jpg" width="167.78px" height="244px">
 <div style="float:right;">
 <br>
 <font size="5">
 <strong>
-Zheng liu
+Zheng Liu
 </strong>
 </font>
 <br>
+<br>
 <font size="4">
-<strong>
 Associate Research Professor,
-</strong>
 </font>
 <br>
 <font size="4">
-<strong>
 National Engineering Research Center of GIS,
-</strong>
 </font>
 <br>
 <font size="4">
-<strong>
 China University of Geoscience (Wuhan),
-</strong>
 </font>
 <br>
 <font size="4">
