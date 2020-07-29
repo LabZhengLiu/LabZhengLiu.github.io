@@ -1,30 +1,30 @@
 <img style="float:left;" src="https://LabZhengLiu.github.io/LabZhengLiu.github.io/images/headImage.jpg" width="147.5px" height="214.5px">
 <div style="float:right;">
 <br>
-<font size="5">
+<font size="4">
 <strong>
 Zheng liu
 </strong>
 </font>
-<font size="5">
+<font size="4">
 <strong>
 , Associate Research Professor,  
 </strong>
 </font>
 <br>
-<font size="5">
+<font size="4">
 <strong>
 National Engineering Research Center of GIS,
 </strong>
 </font>
 <br>
-<font size="5">
+<font size="4">
 <strong>
 China University of Geoscience (Wuhan),
 </strong>
 </font>
 <br>
-<font size="5">
+<font size="4">
 <strong>Email</strong>：<a href="https://mail.google.com/mail/u/0/#inbox">liu.zheng.jojo@gmail.com</a>
 </font>
 </div>
@@ -33,7 +33,7 @@ China University of Geoscience (Wuhan),
 
 # Latest News
 
-- <font size="5" color="red">Apr.2020: Two papers are accepted by Computer-Aided Design (SPM 2020).</font>
+- <font size="4" color="red">Apr.2020: Two papers are accepted by Computer-Aided Design (SPM 2020).</font>
 
 # Research Interests
 <font size="4">
