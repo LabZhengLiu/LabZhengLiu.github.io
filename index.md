@@ -84,9 +84,9 @@ Paper reviewer
 <br>
 &nbsp;***Computer-Aided Design (Proc. SPM2020)***, 2020.
 <br>
-&nbsp;[[paper]](https://LabZhengLiu.github.io/papers/(CAD20)A%20feature-preserving%20framework%20for%20point%20cloud%20denoising.pdf) 
+&nbsp;**[[paper]](https://LabZhengLiu.github.io/papers/(CAD20)A%20feature-preserving%20framework%20for%20point%20cloud%20denoising.pdf) 
     [[exe]](https://www.github.com)
-    [[bib]](bibs.md#Liu2020AFeature)
+    [[bib]](bibs.md#Liu2020AFeature)**
 <div style="clear:both"></div>
 <br>
 
@@ -96,7 +96,7 @@ Paper reviewer
 &nbsp;High Order Mesh Denoising via LP-L1 Minimization
 <br>
 &nbsp;**IEEE ACCESS**, 2019.
-<br>&nbsp;[[paper]](https://LabZhengLiu.github.io/papers/(ACCESS19)High%20Order%20Mesh%20Denoising%20via%20LP-L1%20Minimization.pdf)
+<br>&nbsp;**[[paper]](https://LabZhengLiu.github.io/papers/(ACCESS19)High%20Order%20Mesh%20Denoising%20via%20LP-L1%20Minimization.pdf)**
 <div style="clear:both"></div>
 <br>
 
@@ -106,9 +106,9 @@ Paper reviewer
 &nbsp;A Novel Anisotropic Second Order Regularziation for Mesh Denoising
 <br>
 &nbsp;***Computer Aided Geometric Design (Proc. GMP2019)***, 2019. 
-<br>&nbsp;[[paper]](https://LabZhengLiu.github.io/papers/(CAGD19)A%20Novel%20Anisotropic%20Second%20Order%20Regularization%20for%20Mesh%20Denoising.pdf) 
+<br>&nbsp;**[[paper]](https://LabZhengLiu.github.io/papers/(CAGD19)A%20Novel%20Anisotropic%20Second%20Order%20Regularization%20for%20Mesh%20Denoising.pdf) 
     [[exe]](https://drive.google.com/file/d/1dy-IQ6D6D7uq1u_JcYSzhGvqdNgiAsqW/view?usp=sharing)
-    [[bib]](bibs.md#Liu2019ANovel)
+    [[bib]](bibs.md#Liu2019ANovel)**
 <div style="clear:both"></div>
 <br>
 
@@ -118,7 +118,7 @@ Paper reviewer
 &nbsp;Robust Mesh Denoising via Triple Sparsity
 <br>
 &nbsp;***Sensors***, 2019.
-<br>&nbsp;[[paper]](https://LabZhengLiu.github.io/papers/(Sensors19)Robust%20Mesh%20Denoising%20via%20Triple%20Sparsity.pdf) 
+<br>&nbsp;**[[paper]](https://LabZhengLiu.github.io/papers/(Sensors19)Robust%20Mesh%20Denoising%20via%20Triple%20Sparsity.pdf)**
 <div style="clear:both"></div>
 <br>
 
@@ -128,9 +128,9 @@ Paper reviewer
 &nbsp;Triangulated Surface Denoising using High Order Regularization with Dynamic &nbsp;Weights
 <br>
 &nbsp;***SIAM Journal on Scientific Computing***, 2019.
-<br>&nbsp;[[paper]](https://LabZhengLiu.github.io/papers/(SISC19)Triangulated%20Surface%20Denoising%20using%20High%20Order%20Regularization%20with%20Dynamic%20Weights.pdf) 
+<br>&nbsp;**[[paper]](https://LabZhengLiu.github.io/papers/(SISC19)Triangulated%20Surface%20Denoising%20using%20High%20Order%20Regularization%20with%20Dynamic%20Weights.pdf) 
     [[exe]](https://drive.google.com/file/d/1dy-IQ6D6D7uq1u_JcYSzhGvqdNgiAsqW/view?usp=sharing)
-    [[bib]](bibs.md#Liu2019Triangulated)
+    [[bib]](bibs.md#Liu2019Triangulated)**
 <div style="clear:both"></div>
 <br>
 
@@ -140,8 +140,8 @@ Paper reviewer
 &nbsp;Mesh Denoising via Total Variation and Weighted Laplacian Regularizations
 <br>
 &nbsp;***Journal Computer Animation and Virtual Worlds (Proc. CASA2018)***, 2018.
-<br>&nbsp;[[paper]](https://LabZhengLiu.github.io/papers/(CASA18)Mesh%20denoising%20via%20total%20variation%20and%20weighted%20Laplacian%20regularizations.pdf) 
-    [[exe]](https://www.github.com)
+<br>&nbsp;**[[paper]](https://LabZhengLiu.github.io/papers/(CASA18)Mesh%20denoising%20via%20total%20variation%20and%20weighted%20Laplacian%20regularizations.pdf) 
+    [[exe]](https://www.github.com)**
 <div style="clear:both"></div>
 <br>
 
@@ -151,7 +151,7 @@ Paper reviewer
 &nbsp;基于条件迭代更新随机森林的非约束人脸特征点精确定位
 <br>
 &nbsp;***计算机辅助设计与图形学学报***, 2017.
-<br>&nbsp;[[paper]](https://LabZhengLiu.github.io/papers/(CADCG17)基于条件迭代更新随机森林的非约束人脸特征点精确定位.pdf) 
+<br>&nbsp;**[[paper]](https://LabZhengLiu.github.io/papers/(CADCG17)基于条件迭代更新随机森林的非约束人脸特征点精确定位.pdf)**
 <div style="clear:both"></div>
 <br>
 
@@ -161,7 +161,7 @@ Paper reviewer
 &nbsp;On Geodesic Curvature Flow with Level Set Formulation Over Triangulated &nbsp;Surfaces
 <br>
 &nbsp;***Journal of Scientific Computing***, 2017.
-<br>&nbsp;[[paper]](https://github.com/LabZhengLiu/LabZhengLiu.github.io/blob/master/papers/(JSC16)On%20Geodesic%20Curvature%20Flow%20with%20Level%20Set%20Formulation%20Over%20Triangulated%20Surfaces.pdf) 
+<br>&nbsp;**[[paper]](https://github.com/LabZhengLiu/LabZhengLiu.github.io/blob/master/papers/(JSC16)On%20Geodesic%20Curvature%20Flow%20with%20Level%20Set%20Formulation%20Over%20Triangulated%20Surfaces.pdf)**
 <div style="clear:both"></div>
 <br>
 
@@ -171,7 +171,7 @@ Paper reviewer
 &nbsp;Illumination Decomposition for Photograph with Multiple Light Sources
 <br>
 &nbsp;***IEEE Transactions on Image Processing***, 2017. 
-<br>&nbsp;[[paper]](https://LabZhengLiu.github.io/papers/(TIP17)Illumination%20Decomposition%20for%20Photograph%20with%20Multiple%20Light%20Sources.pdf)
+<br>&nbsp;**[[paper]](https://LabZhengLiu.github.io/papers/(TIP17)Illumination%20Decomposition%20for%20Photograph%20with%20Multiple%20Light%20Sources.pdf)**
 <div style="clear:both"></div>
 <br>
 
@@ -181,7 +181,7 @@ Paper reviewer
 &nbsp;A New Two-stage Mesh Surface Segmentation Method
 <br>
 &nbsp;***The Visual Computer***, 2017.
-<br>&nbsp;[[paper]](https://LabZhengLiu.github.io/papers/(JSC16)On%20Geodesic%20Curvature%20Flow%20with%20Level%20Set%20Formulation%20Over%20Triangulated%20Surfaces.pdf)
+<br>&nbsp;**[[paper]](https://LabZhengLiu.github.io/papers/(JSC16)On%20Geodesic%20Curvature%20Flow%20with%20Level%20Set%20Formulation%20Over%20Triangulated%20Surfaces.pdf)
 <div style="clear:both"></div>
 <br>
 
@@ -191,7 +191,7 @@ Paper reviewer
 &nbsp;As-rigid-as-possible Spherical Parametrization
 <br>
 &nbsp;***Graphical Models (Proc. GMP2014)***, 2014.
-<br>&nbsp;[[paper]](https://LabZhengLiu.github.io/papers/(GMP14)As-Rigid-As-Possible%20Spherical%20Parametrization.pdf)
+<br>&nbsp;**[[paper]](https://LabZhengLiu.github.io/papers/(GMP14)As-Rigid-As-Possible%20Spherical%20Parametrization.pdf)
 <div style="clear:both"></div>
 <br>
 
@@ -201,6 +201,6 @@ Paper reviewer
 &nbsp;Scale-Aware Shape Manipulation
 <br>
 &nbsp;***Journal of Zhejiang University Science C (Computers & Electronics)***, 2014.
-<br>&nbsp;[[paper]](https://LabZhengLiu.github.io/papers/(ZJUS14)Scale-aware%20shape%20manipulation.pdf)
+<br>&nbsp;**[[paper]](https://LabZhengLiu.github.io/papers/(ZJUS14)Scale-aware%20shape%20manipulation.pdf)**
 <div style="clear:both"></div>
 <br>
