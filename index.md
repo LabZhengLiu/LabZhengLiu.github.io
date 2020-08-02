@@ -71,9 +71,9 @@ Paper reviewer
 <br>
 &nbsp;***Computer-Aided Design (Proc. SPM2020)***, 2020.
 <br>
-&nbsp;[[paper]](https://LabZhengLiu.github.io/papers/(CAD20)Mesh%20Denoising%20via%20a%20Novel%20Mumford–Shah%20Framework.pdf) 
-    [[exe]](https://drive.google.com/file/d/1dy-IQ6D6D7uq1u_JcYSzhGvqdNgiAsqW/view?usp=sharing)
-    [[bib]](bibs.md#Liu2020Mesh)
+&nbsp;[[**paper**]](https://LabZhengLiu.github.io/papers/(CAD20)Mesh%20Denoising%20via%20a%20Novel%20Mumford–Shah%20Framework.pdf) 
+    [[**exe]**](https://drive.google.com/file/d/1dy-IQ6D6D7uq1u_JcYSzhGvqdNgiAsqW/view?usp=sharing)
+    [[**bib**]](bibs.md#Liu2020Mesh)
 <div style="clear:both"></div>
 <br>
 
