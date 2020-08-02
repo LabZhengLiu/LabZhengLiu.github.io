@@ -1,5 +1,5 @@
 <span id="Liu2019ANovel">
-<pre>
+```
 @article{Liu2019ANovel,
   title={A Novel Anisotropic Second Order Regularization for Mesh Denoising},
   author={Liu, Zheng and Zhong, Saishang and Xie, Zhong and Wang, Weina},
@@ -9,7 +9,7 @@
   pages={190-201},
   year={2019},}
 }
-</pre>
+```
 </span>
 
 <span id="Liu2019Triangulated">
