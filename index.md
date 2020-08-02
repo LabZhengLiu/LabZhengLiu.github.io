@@ -181,7 +181,7 @@ Paper reviewer
 &nbsp;A New Two-stage Mesh Surface Segmentation Method
 <br>
 &nbsp;***The Visual Computer***, 2017.
-<br>&nbsp;**[[paper]](https://LabZhengLiu.github.io/papers/(JSC16)On%20Geodesic%20Curvature%20Flow%20with%20Level%20Set%20Formulation%20Over%20Triangulated%20Surfaces.pdf)
+<br>&nbsp;**[[paper]](https://LabZhengLiu.github.io/papers/(JSC16)On%20Geodesic%20Curvature%20Flow%20with%20Level%20Set%20Formulation%20Over%20Triangulated%20Surfaces.pdf)**
 <div style="clear:both"></div>
 <br>
 
@@ -191,7 +191,7 @@ Paper reviewer
 &nbsp;As-rigid-as-possible Spherical Parametrization
 <br>
 &nbsp;***Graphical Models (Proc. GMP2014)***, 2014.
-<br>&nbsp;**[[paper]](https://LabZhengLiu.github.io/papers/(GMP14)As-Rigid-As-Possible%20Spherical%20Parametrization.pdf)
+<br>&nbsp;**[[paper]](https://LabZhengLiu.github.io/papers/(GMP14)As-Rigid-As-Possible%20Spherical%20Parametrization.pdf)**
 <div style="clear:both"></div>
 <br>
 
