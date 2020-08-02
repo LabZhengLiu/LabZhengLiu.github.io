@@ -73,6 +73,7 @@ Paper reviewer
 <br>
 &nbsp;[[paper]](https://LabZhengLiu.github.io/papers/(CAD20)Mesh%20Denoising%20via%20a%20Novel%20Mumford–Shah%20Framework.pdf) 
     [[exe]](https://drive.google.com/file/d/1dy-IQ6D6D7uq1u_JcYSzhGvqdNgiAsqW/view?usp=sharing)
+    [[bib]](bibs.md)
 <div style="clear:both"></div>
 <br>
 
@@ -85,6 +86,7 @@ Paper reviewer
 <br>
 &nbsp;[[paper]](https://LabZhengLiu.github.io/papers/(CAD20)A%20feature-preserving%20framework%20for%20point%20cloud%20denoising.pdf) 
     [[exe]](https://www.github.com)
+    [[bib]](bibs.md)
 <div style="clear:both"></div>
 <br>
 
@@ -106,6 +108,7 @@ Paper reviewer
 &nbsp;***Computer Aided Geometric Design (Proc. GMP2019)***, 2019. 
 <br>&nbsp;[[paper]](https://LabZhengLiu.github.io/papers/(CAGD19)A%20Novel%20Anisotropic%20Second%20Order%20Regularization%20for%20Mesh%20Denoising.pdf) 
     [[exe]](https://drive.google.com/file/d/1dy-IQ6D6D7uq1u_JcYSzhGvqdNgiAsqW/view?usp=sharing)
+    [[bib]](bibs.md)
 <div style="clear:both"></div>
 <br>
 
@@ -127,6 +130,7 @@ Paper reviewer
 &nbsp;***SIAM Journal on Scientific Computing***, 2019.
 <br>&nbsp;[[paper]](https://LabZhengLiu.github.io/papers/(SISC19)Triangulated%20Surface%20Denoising%20using%20High%20Order%20Regularization%20with%20Dynamic%20Weights.pdf) 
     [[exe]](https://drive.google.com/file/d/1dy-IQ6D6D7uq1u_JcYSzhGvqdNgiAsqW/view?usp=sharing)
+    [[bib]](bibs.md)
 <div style="clear:both"></div>
 <br>
 
