@@ -1,5 +1,5 @@
 <span id="Liu2019ANovel"></span>
-##A Novel Anisotropic Second Order Regularization for Mesh Denoising
+## A Novel Anisotropic Second Order Regularization for Mesh Denoising
 ```TeX
 @article{Liu2019ANovel,
   title={A Novel Anisotropic Second Order Regularization for Mesh Denoising},
