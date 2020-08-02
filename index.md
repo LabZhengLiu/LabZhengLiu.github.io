@@ -200,9 +200,3 @@ Paper reviewer
 <br>&nbsp;[[paper]](https://LabZhengLiu.github.io/papers/(ZJUS14)Scale-aware%20shape%20manipulation.pdf)
 <div style="clear:both"></div>
 <br>
-
----
-
-本页面版本：v1.0
-
-最后更新时间：20/07/29 20:03
