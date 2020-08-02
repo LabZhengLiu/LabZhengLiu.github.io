@@ -1,4 +1,4 @@
-<span id="Liu2019ANovel">
+<span id="Liu2019ANovel"></span>
 ```
 @article{Liu2019ANovel,
   title={A Novel Anisotropic Second Order Regularization for Mesh Denoising},
@@ -10,9 +10,9 @@
   year={2019},}
 }
 ```
-</span>
 
-<span id="Liu2019Triangulated">
+
+<span id="Liu2019Triangulated"></span>
 <pre>
 @article{Liu2019Triangulated,
   author = {Liu, Zheng and Lai, Rongjie and Zhang, Huayan and Wu, Chunlin},
@@ -24,9 +24,9 @@
   year = {2019},}
 }
 </pre>
-</span>
 
-<span id="Liu2020Mesh">
+
+<span id="Liu2020Mesh"></span>
 <pre>
 @article{Liu2020Mesh,
   title={Mesh Denoising via a Novel Mumford–Shah Framework},
@@ -37,9 +37,9 @@
   pages={102858},
   year={2020},}
 </pre>
-</span>
 
-<span id="Liu2020AFeature">
+
+<span id="Liu2020AFeature"></span>
 <pre>
 @article{Liu2020AFeature,
   title={A feature-preserving framework for point cloud denoising},
@@ -50,4 +50,4 @@
   pages={102857},
   year={2020},}
 </pre>
-</span>
+
