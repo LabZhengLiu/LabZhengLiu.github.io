@@ -1,6 +1,6 @@
 
 <span id="Liu2019ANovel"></span>
-```TeX
+```
 @article{Liu2019ANovel,
   title={A Novel Anisotropic Second Order Regularization for Mesh Denoising},
   author={Liu, Zheng and Zhong, Saishang and Xie, Zhong and Wang, Weina},

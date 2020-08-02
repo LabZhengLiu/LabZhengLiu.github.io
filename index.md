@@ -96,7 +96,8 @@ Paper reviewer
 &nbsp;High Order Mesh Denoising via LP-L1 Minimization
 <br>
 &nbsp;**IEEE ACCESS**, 2019.
-<br>&nbsp;**[[paper]](https://LabZhengLiu.github.io/papers/(ACCESS19)High%20Order%20Mesh%20Denoising%20via%20LP-L1%20Minimization.pdf)**
+<br>&nbsp;**[[paper]](https://LabZhengLiu.github.io/papers/(ACCESS19)High%20Order%20Mesh%20Denoising%20via%20LP-L1%20Minimization.pdf)
+[[bib]](bibs/Liu2019High.md)**
 <div style="clear:both"></div>
 <br>
 
@@ -118,7 +119,8 @@ Paper reviewer
 &nbsp;Robust Mesh Denoising via Triple Sparsity
 <br>
 &nbsp;***Sensors***, 2019.
-<br>&nbsp;**[[paper]](https://LabZhengLiu.github.io/papers/(Sensors19)Robust%20Mesh%20Denoising%20via%20Triple%20Sparsity.pdf)**
+<br>&nbsp;**[[paper]](https://LabZhengLiu.github.io/papers/(Sensors19)Robust%20Mesh%20Denoising%20via%20Triple%20Sparsity.pdf)
+[[bib]](bibs/Zhong2019Robust.md)**
 <div style="clear:both"></div>
 <br>
 
@@ -141,7 +143,8 @@ Paper reviewer
 <br>
 &nbsp;***Journal Computer Animation and Virtual Worlds (Proc. CASA2018)***, 2018.
 <br>&nbsp;**[[paper]](https://LabZhengLiu.github.io/papers/(CASA18)Mesh%20denoising%20via%20total%20variation%20and%20weighted%20Laplacian%20regularizations.pdf) 
-    [[exe]](https://www.github.com)**
+    [[exe]](https://www.github.com)
+    [[bib]](bibs/Zhong2018Mesh.md)**
 <div style="clear:both"></div>
 <br>
 
@@ -161,7 +164,8 @@ Paper reviewer
 &nbsp;On Geodesic Curvature Flow with Level Set Formulation Over Triangulated &nbsp;Surfaces
 <br>
 &nbsp;***Journal of Scientific Computing***, 2017.
-<br>&nbsp;**[[paper]](https://github.com/LabZhengLiu/LabZhengLiu.github.io/blob/master/papers/(JSC16)On%20Geodesic%20Curvature%20Flow%20with%20Level%20Set%20Formulation%20Over%20Triangulated%20Surfaces.pdf)**
+<br>&nbsp;**[[paper]](https://github.com/LabZhengLiu/LabZhengLiu.github.io/blob/master/papers/(JSC16)On%20Geodesic%20Curvature%20Flow%20with%20Level%20Set%20Formulation%20Over%20Triangulated%20Surfaces.pdf)
+[[bib]](bibs/liu2017geodesic.md)**
 <div style="clear:both"></div>
 <br>
 

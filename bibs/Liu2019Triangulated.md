@@ -1,6 +1,6 @@
 
 <span id="Liu2019Triangulated"></span>
-```TeX
+```
 @article{Liu2019Triangulated,
   author = {Liu, Zheng and Lai, Rongjie and Zhang, Huayan and Wu, Chunlin},
   title = {Triangulated Surface Denoising using High Order Regularization with Dynamic Weights},
