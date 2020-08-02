@@ -1,5 +1,5 @@
 <span id="Liu2019ANovel"></span>
-```
+```TeX
 @article{Liu2019ANovel,
   title={A Novel Anisotropic Second Order Regularization for Mesh Denoising},
   author={Liu, Zheng and Zhong, Saishang and Xie, Zhong and Wang, Weina},
@@ -13,7 +13,7 @@
 
 
 <span id="Liu2019Triangulated"></span>
-<pre>
+```TeX
 @article{Liu2019Triangulated,
   author = {Liu, Zheng and Lai, Rongjie and Zhang, Huayan and Wu, Chunlin},
   title = {Triangulated Surface Denoising using High Order Regularization with Dynamic Weights},
@@ -23,11 +23,11 @@
   pages = {1-26},
   year = {2019},}
 }
-</pre>
+```
 
 
 <span id="Liu2020Mesh"></span>
-<pre>
+```TeX
 @article{Liu2020Mesh,
   title={Mesh Denoising via a Novel Mumford–Shah Framework},
   author={Liu, Zheng and Wang, Weina and Zhong, Saishang and Zeng, Bohong and Liu, Jinqin and Wang, Weiming},
@@ -36,11 +36,11 @@
   number={},
   pages={102858},
   year={2020},}
-</pre>
+```
 
 
 <span id="Liu2020AFeature"></span>
-<pre>
+```TeX
 @article{Liu2020AFeature,
   title={A feature-preserving framework for point cloud denoising},
   author={Liu, Zheng and Xiao, Xiaowen and Zhong, Saishang and Wang, Weina and Li, Yanlei and Zhang, Ling and Xie, Zhong},
@@ -49,5 +49,5 @@
   number={},
   pages={102857},
   year={2020},}
-</pre>
+```
 
