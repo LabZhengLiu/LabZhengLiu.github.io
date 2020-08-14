@@ -63,7 +63,7 @@ Paper reviewer
 </font>
 <br>
 <strong>
-Program Committee:
+Program committee:
 </strong>
 </font>
 <font size="4">
