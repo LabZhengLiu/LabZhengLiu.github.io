@@ -61,6 +61,13 @@ Paper reviewer
 <font size="4">
 : IEEE TVCG, CAD, CGF, CAGD, VC, IEEE Computer Graphics and Applications, JCAM, IEEE ACCESS
 </font>
+<strong>
+Program Committee:
+</strong>
+</font>
+<font size="4">
+: Chinagraph 2020
+</font>
 
 # Selected Publications [[Google Scholar]](https://scholar.google.com/citations?user=_jtNrOUAAAAJ&hl=zh-CN) [[Researchgate]](https://www.researchgate.net/profile/Zheng_Liu52)
 
