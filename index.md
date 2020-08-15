@@ -62,6 +62,7 @@ Paper reviewer
 : IEEE TVCG, CAD, CGF, CAGD, VC, IEEE Computer Graphics and Applications, JCAM, IEEE ACCESS
 </font>
 <br>
+<font size="4">
 <strong>
 Program committee
 </strong>
