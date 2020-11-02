@@ -28,8 +28,8 @@ China University of Geosciences (Wuhan),
 <div style="clear:both"></div>
 
 # Latest News
-
-- <font size="4" color="red">Apr.2020: Two papers are accepted by Computer-Aided Design (SPM 2020).</font>
+- <font size="4" color="red">2020.11: One paper is accepted by Remote Sensing Letters.</font>
+- <font size="4" color="red">2020.4:  Two papers are accepted by Computer-Aided Design (SPM 2020).</font>
 
 # Research Interests
 <font size="4">
@@ -68,7 +68,7 @@ Program committee
 </strong>
 </font>
 <font size="4">
-: Chinagraph 2020
+: Chinagraph 2020，Geometric Modeling and Processing (GMP) 2021
 </font>
 
 # Selected Publications [[Google Scholar]](https://scholar.google.com/citations?user=_jtNrOUAAAAJ&hl=zh-CN) [[Researchgate]](https://www.researchgate.net/profile/Zheng_Liu52)
