@@ -29,7 +29,7 @@ China University of Geosciences (Wuhan),
 
 # Latest News
 - <font size="4" color="red">2020.11: One paper is accepted by Remote Sensing Letters.</font>
-- <font size="4" color="red">2020.4 : Two papers are accepted by Computer-Aided Design (SPM 2020).</font>
+- <font size="4" color="red">2020.04: Two papers are accepted by Computer-Aided Design (SPM 2020).</font>
 
 # Research Interests
 <font size="4">
@@ -59,7 +59,7 @@ Paper reviewer
 </strong>
 </font>
 <font size="4">
-: TVCG, CAD, CGF, CAGD, VC, IEEE Computer Graphics and Applications, JCAM, IEEE ACCESS
+: IEEE Transactions on Visualization and Computer Graphics (TVCG), Computer-Aided Design (CAD), Computer Graphics Forum (CGF), Computer Aided Geometric Design (CAGD), Visual Computer, IEEE Computer Graphics and Applications, Journal of Computational and Applied Mathematics (JCAM), IEEE Access
 </font>
 <br>
 <font size="4">
