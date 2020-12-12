@@ -40,7 +40,7 @@ More specifically, I am interested in the following topics:
 Geometry Processing: Mesh denoising, Point cloud filtering/reconstruction, Registration, Mesh/Point cloud segmentation.
 </li>
 <li>
-Image Processing: Image denoising, Image segmentation.
+Image Processing: Image denoising, Image segmentation, Despeckling.
 </li>
 <li>
 3D Deep Learning: Indoor scene detection/segmentation/labeling.
@@ -72,6 +72,19 @@ Program committee
 </font>
 
 # Selected Publications [[Google Scholar]](https://scholar.google.com/citations?user=_jtNrOUAAAAJ&hl=zh-CN) [[Researchgate]](https://www.researchgate.net/profile/Zheng_Liu52)
+
+<img style="float:left;" width="400" src="https://LabZhengLiu.github.io/LabZhengLiu.github.io/images/Paper-13.png"> 
+&nbsp;[13] Mingqiang Guo, Chende Han, Weina Wang, Saishang Zhong, Ruina Lv, and  **Zheng Liu<sup>★</sup>**
+<br>
+&nbsp;A novel truncated nonconvex nonsmooth variational method for SAR image despeckling
+<br>
+&nbsp;***Remote Sensing Letters***, 2020.
+<br>
+&nbsp;**[[paper]](https://LabZhengLiu.github.io/papers/(CAD20)Mesh%20Denoising%20via%20a%20Novel%20Mumford–Shah%20Framework.pdf) 
+    [[exe]](https://drive.google.com/file/d/1dy-IQ6D6D7uq1u_JcYSzhGvqdNgiAsqW/view?usp=sharing)
+    [[bib]](bibs/Liu2020Mesh.md)**
+<div style="clear:both"></div>
+<br>
 
 <img style="float:left;" width="400" src="https://LabZhengLiu.github.io/LabZhengLiu.github.io/images/Paper-13.png"> 
 &nbsp;[13] **Zheng Liu**, Weina Wang, Saishang Zhong, Bohong Zeng, Jinqin Liu, Weiming &nbsp;Wang
