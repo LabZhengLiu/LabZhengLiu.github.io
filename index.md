@@ -74,7 +74,7 @@ Program committee
 # Selected Publications [[Google Scholar]](https://scholar.google.com/citations?user=_jtNrOUAAAAJ&hl=zh-CN) [[Researchgate]](https://www.researchgate.net/profile/Zheng_Liu52)
 
 <img style="float:left;" width="400" src="https://LabZhengLiu.github.io/LabZhengLiu.github.io/images/A novel truncated nonconvex nonsmooth variational method for SAR image despeckling.png"> 
-&nbsp;[13] Mingqiang Guo, Chende Han, Weina Wang, Saishang Zhong, Ruina Lv, **Zheng Liu<sup>★</sup>**
+&nbsp;[14] Mingqiang Guo, Chende Han, Weina Wang, Saishang Zhong, Ruina Lv, **Zheng Liu<sup>★</sup>**
 <br>
 &nbsp;A novel truncated nonconvex nonsmooth variational method for SAR image despeckling
 <br>
