@@ -81,7 +81,7 @@ Program committee
 &nbsp;***Remote Sensing Letters***, 2020.
 <br>
 &nbsp;**[[paper]]() 
-    [[bib]](bibs/Liu2020Mesh.md)**
+    [[bib]](bibs/Guo2020ANovel.md)**
 <div style="clear:both"></div>
 <br>
 
