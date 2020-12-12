@@ -73,14 +73,14 @@ Program committee
 
 # Selected Publications [[Google Scholar]](https://scholar.google.com/citations?user=_jtNrOUAAAAJ&hl=zh-CN) [[Researchgate]](https://www.researchgate.net/profile/Zheng_Liu52)
 
-<img style="float:left;" width="400" src="https://LabZhengLiu.github.io/LabZhengLiu.github.io/images/Paper-13.png"> 
+<img style="float:left;" width="400" src="https://LabZhengLiu.github.io/LabZhengLiu.github.io/images/Paper-12.png"> 
 &nbsp;[13] Mingqiang Guo, Chende Han, Weina Wang, Saishang Zhong, Ruina Lv, and  **Zheng Liu<sup>★</sup>**
 <br>
 &nbsp;A novel truncated nonconvex nonsmooth variational method for SAR image despeckling
 <br>
 &nbsp;***Remote Sensing Letters***, 2020.
 <br>
-&nbsp;**[[paper]](https://github.com/LabZhengLiu/LabZhengLiu.github.io/blob/master/papers/(RSL20)A%20novel%20truncated%20nonconvex%20nonsmooth%20variational%20method%20for%20SAR%20image%20despeckling.pdf) 
+&nbsp;**[[paper]](https://LabZhengLiu.github.io/papers/(RSL20)A%20novel%20truncated%20nonconvex%20nonsmooth%20variational%20method%20for%20SAR%20image%20despeckling.pdf) 
     [[bib]](bibs/Guo2020ANovel.md)**
 <div style="clear:both"></div>
 <br>
