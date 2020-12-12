@@ -80,7 +80,7 @@ Program committee
 <br>
 &nbsp;***Remote Sensing Letters***, 2020.
 <br>
-&nbsp;**[[paper]]() 
+&nbsp;**[[paper]](https://github.com/LabZhengLiu/LabZhengLiu.github.io/blob/master/papers/(RSL20)A%20novel%20truncated%20nonconvex%20nonsmooth%20variational%20method%20for%20SAR%20image%20despeckling.pdf) 
     [[bib]](bibs/Guo2020ANovel.md)**
 <div style="clear:both"></div>
 <br>
