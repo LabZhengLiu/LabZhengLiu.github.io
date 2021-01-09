@@ -76,6 +76,19 @@ Program committee
 # Selected Publications [[Google Scholar]](https://scholar.google.com/citations?user=_jtNrOUAAAAJ&hl=zh-CN) [[Researchgate]](https://www.researchgate.net/profile/Zheng_Liu52)
 
 <img style="float:left;" width="400" src="https://LabZhengLiu.github.io/LabZhengLiu.github.io/images/Paper-14.png"> 
+&nbsp;[14] Mingqiang Guo, Zhenzhen Song, Chengde Han, Saishang Zhong, Ruina Lv,  **Zheng Liu<sup>★</sup>**
+<br>
+&nbsp;Mesh Denoising via Adaptive Consistent Neighborhood
+<br>
+&nbsp;***Sensors***, 2021.
+<br>
+&nbsp;**[[paper]](https://LabZhengLiu.github.io/papers/(RSL20)A%20novel%20truncated%20nonconvex%20nonsmooth%20variational%20method%20for%20SAR%20image%20despeckling.pdf) 
+   [[code]](https://github.com/ChengdeHan/TRTVp)
+   [[bib]](bibs/Guo2020ANovel.md)**
+<div style="clear:both"></div>
+<br>
+
+<img style="float:left;" width="400" src="https://LabZhengLiu.github.io/LabZhengLiu.github.io/images/Paper-14.png"> 
 &nbsp;[14] Mingqiang Guo, Chengde Han, Weina Wang, Saishang Zhong, Ruina Lv, **Zheng Liu<sup>★</sup>**
 <br>
 &nbsp;A novel truncated nonconvex nonsmooth variational method for SAR image despeckling
