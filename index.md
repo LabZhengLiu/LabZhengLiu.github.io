@@ -76,7 +76,7 @@ Program committee
 # Selected Publications [[Google Scholar]](https://scholar.google.com/citations?user=_jtNrOUAAAAJ&hl=zh-CN) [[Researchgate]](https://www.researchgate.net/profile/Zheng_Liu52)
 
 <img style="float:left;" width="400" src="https://LabZhengLiu.github.io/LabZhengLiu.github.io/images/Paper-15.png"> 
-&nbsp;[14] Mingqiang Guo, Zhenzhen Song, Chengde Han, Saishang Zhong, Ruina Lv,  **Zheng Liu<sup>★</sup>**
+&nbsp;[15] Mingqiang Guo, Zhenzhen Song, Chengde Han, Saishang Zhong, Ruina Lv,  **Zheng Liu<sup>★</sup>**
 <br>
 &nbsp;Mesh Denoising via Adaptive Consistent Neighborhood
 <br>
