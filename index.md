@@ -82,9 +82,8 @@ Program committee
 <br>
 &nbsp;***Sensors***, 2021.
 <br>
-&nbsp;**[[paper]](https://LabZhengLiu.github.io/papers/(RSL20)A%20novel%20truncated%20nonconvex%20nonsmooth%20variational%20method%20for%20SAR%20image%20despeckling.pdf) 
-   [[code]](https://github.com/ChengdeHan/TRTVp)
-   [[bib]](bibs/Guo2020ANovel.md)**
+&nbsp;**[[paper]](https://github.com/LabZhengLiu/LabZhengLiu.github.io/blob/master/papers/(Sensors21)Mesh%20Denoising%20via%20Adaptive%20Consistent%20Neighborhood.pdf) 
+   [[bib]](bibs/Guo2021Mesh.md)**
 <div style="clear:both"></div>
 <br>
 
