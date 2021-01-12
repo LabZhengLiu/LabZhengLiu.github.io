@@ -244,5 +244,3 @@ Program committee
 <br>&nbsp;**[[paper]](https://LabZhengLiu.github.io/papers/(ZJUS14)Scale-aware%20shape%20manipulation.pdf)**
 <div style="clear:both"></div>
 <br>
-
-<script type="text/javascript" id="clstr_globe" src="//clustrmaps.com/globe.js?d=nd25JQV2Xo7X5ehhxwuz53en6W0vWJggd1-2efLHzz0"></script>
