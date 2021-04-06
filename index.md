@@ -75,7 +75,7 @@ Program committee
 
 # Selected Publications [[Google Scholar]](https://scholar.google.com/citations?user=_jtNrOUAAAAJ&hl=zh-CN) [[Researchgate]](https://www.researchgate.net/profile/Zheng_Liu52)
 
-<img style="float:left;" width="400" src="https://LabZhengLiu.github.io/LabZhengLiu.github.io/images/Paper-15.png"> 
+<img style="float:left;" width="400" src="https://LabZhengLiu.github.io/images/Paper-15.png"> 
 &nbsp;[15] Mingqiang Guo, Zhenzhen Song, Chengde Han, Saishang Zhong, Ruina Lv,  **Zheng Liu<sup>★</sup>**
 <br>
 &nbsp;Mesh Denoising via Adaptive Consistent Neighborhood
@@ -87,7 +87,7 @@ Program committee
 <div style="clear:both"></div>
 <br>
 
-<img style="float:left;" width="400" src="https://LabZhengLiu.github.io/LabZhengLiu.github.io/images/Paper-14.png"> 
+<img style="float:left;" width="400" src="https://LabZhengLiu.github.io/images/Paper-14.png"> 
 &nbsp;[14] Mingqiang Guo, Chengde Han, Weina Wang, Saishang Zhong, Ruina Lv, **Zheng Liu<sup>★</sup>**
 <br>
 &nbsp;A novel truncated nonconvex nonsmooth variational method for SAR image despeckling
@@ -100,7 +100,7 @@ Program committee
 <div style="clear:both"></div>
 <br>
 
-<img style="float:left;" width="400" src="https://LabZhengLiu.github.io/LabZhengLiu.github.io/images/Paper-13.png"> 
+<img style="float:left;" width="400" src="https://LabZhengLiu.github.io/images/Paper-13.png"> 
 &nbsp;[13] **Zheng Liu**, Weina Wang, Saishang Zhong, Bohong Zeng, Jinqin Liu, Weiming &nbsp;Wang
 <br>
 &nbsp;Mesh Denoising via a Novel Mumford-Shah Framework
@@ -113,7 +113,7 @@ Program committee
 <div style="clear:both"></div>
 <br>
 
-<img style="float:left;" width="400" src="https://LabZhengLiu.github.io/LabZhengLiu.github.io/images/Paper-12.png"> 
+<img style="float:left;" width="400" src="https://LabZhengLiu.github.io/images/Paper-12.png"> 
 &nbsp;[12] **Zheng Liu**, Xiaowen Xiao, Saishang Zhong, Weina Wang, Yanlei Li, Ling &nbsp;Zhang, Zhong Xie
 <br>
 &nbsp;A Feature-preserving Framework for Point Cloud Denoising
@@ -126,7 +126,7 @@ Program committee
 <div style="clear:both"></div>
 <br>
 
-<img style="float:left;" width="400" src="https://LabZhengLiu.github.io/LabZhengLiu.github.io/images/Paper-11.png"> 
+<img style="float:left;" width="400" src="https://LabZhengLiu.github.io/images/Paper-11.png"> 
 &nbsp;[11] **Zheng Liu**, Mingqiang Guo, Zhong Xie, Jinqin Liu, Bohong Zeng
 <br>
 &nbsp;High Order Mesh Denoising via LP-L1 Minimization
@@ -137,7 +137,7 @@ Program committee
 <div style="clear:both"></div>
 <br>
 
-<img style="float:left;" width="400" src="https://LabZhengLiu.github.io/LabZhengLiu.github.io/images/Paper-10.png"> 
+<img style="float:left;" width="400" src="https://LabZhengLiu.github.io/images/Paper-10.png"> 
 &nbsp;[10] **Zheng Liu**, Saishang Zhong, Zhong Xie, Weina Wang
 <br>
 &nbsp;A Novel Anisotropic Second Order Regularziation for Mesh Denoising
@@ -149,7 +149,7 @@ Program committee
 <div style="clear:both"></div>
 <br>
 
-<img style="float:left;" width="400" src="https://LabZhengLiu.github.io/LabZhengLiu.github.io/images/Paper-9.png"> 
+<img style="float:left;" width="400" src="https://LabZhengLiu.github.io/images/Paper-9.png"> 
 &nbsp;[9] Saishang Zhong, Zhong Xie, Jinqin Liu, **Zheng Liu<sup>★</sup>**
 <br>
 &nbsp;Robust Mesh Denoising via Triple Sparsity
@@ -160,7 +160,7 @@ Program committee
 <div style="clear:both"></div>
 <br>
 
-<img style="float:left;" width="400" src="https://LabZhengLiu.github.io/LabZhengLiu.github.io/images/Paper-8.png"> 
+<img style="float:left;" width="400" src="https://LabZhengLiu.github.io/images/Paper-8.png"> 
 &nbsp;[8] **Zheng Liu**, Rongjie Lai, Huayan Zhang, Chunlin Wu
 <br>
 &nbsp;Triangulated Surface Denoising using High Order Regularization with Dynamic &nbsp;Weights
@@ -172,7 +172,7 @@ Program committee
 <div style="clear:both"></div>
 <br>
 
-<img style="float:left;" width="400" src="https://LabZhengLiu.github.io/LabZhengLiu.github.io/images/Paper-7.png"> 
+<img style="float:left;" width="400" src="https://LabZhengLiu.github.io/images/Paper-7.png"> 
 &nbsp;[7] Saishang Zhong, Zhong Xie, Weina Wang, **Zheng Liu<sup>★</sup>** and Ligang Liu
 <br>
 &nbsp;Mesh Denoising via Total Variation and Weighted Laplacian Regularizations
@@ -184,7 +184,7 @@ Program committee
 <div style="clear:both"></div>
 <br>
 
-<img style="float:left;" width="400" src="https://LabZhengLiu.github.io/LabZhengLiu.github.io/images/Paper-6.png"> 
+<img style="float:left;" width="400" src="https://LabZhengLiu.github.io/images/Paper-6.png"> 
 &nbsp;[6] 刘袁缘, 谢忠, 周顺平, **刘郑<sup>★</sup>**, 王伟明, 刘秀平, 饶伟
 <br>
 &nbsp;基于条件迭代更新随机森林的非约束人脸特征点精确定位
@@ -194,7 +194,7 @@ Program committee
 <div style="clear:both"></div>
 <br>
 
-<img style="float:left;" width="400" src="https://LabZhengLiu.github.io/LabZhengLiu.github.io/images/Paper-5.png"> 
+<img style="float:left;" width="400" src="https://LabZhengLiu.github.io/images/Paper-5.png"> 
 &nbsp;[5] **Zheng Liu**, Huayan Zhang and Chunlin Wu
 <br>
 &nbsp;On Geodesic Curvature Flow with Level Set Formulation Over Triangulated &nbsp;Surfaces
@@ -205,7 +205,7 @@ Program committee
 <div style="clear:both"></div>
 <br>
 
-<img style="float:left;" width="400" src="https://LabZhengLiu.github.io/LabZhengLiu.github.io/images/Paper-4.png"> 
+<img style="float:left;" width="400" src="https://LabZhengLiu.github.io/images/Paper-4.png"> 
 &nbsp;[4] Ling Zhang, Qingan Yan, **Zheng Liu**, Hua Zou, Chunxia Xiao
 <br>
 &nbsp;Illumination Decomposition for Photograph with Multiple Light Sources
@@ -215,7 +215,7 @@ Program committee
 <div style="clear:both"></div>
 <br>
 
-<img style="float:left;" width="400" src="https://LabZhengLiu.github.io/LabZhengLiu.github.io/images/Paper-3.png"> 
+<img style="float:left;" width="400" src="https://LabZhengLiu.github.io/images/Paper-3.png"> 
 &nbsp;[3] Huayan Zhang, Chunlin Wu, Jiansong Deng, **Zheng Liu**, Yuning Yang
 <br>
 &nbsp;A New Two-stage Mesh Surface Segmentation Method
@@ -225,7 +225,7 @@ Program committee
 <div style="clear:both"></div>
 <br>
 
-<img style="float:left;" width="400" src="https://LabZhengLiu.github.io/LabZhengLiu.github.io/images/Paper-2.png"> 
+<img style="float:left;" width="400" src="https://LabZhengLiu.github.io/images/Paper-2.png"> 
 &nbsp;[2] Chunxue Wang, **Zheng Liu<sup>★</sup>**, Ligang Liu
 <br>
 &nbsp;As-rigid-as-possible Spherical Parametrization
@@ -235,7 +235,7 @@ Program committee
 <div style="clear:both"></div>
 <br>
 
-<img style="float:left;" width="400" src="https://LabZhengLiu.github.io/LabZhengLiu.github.io/images/Paper-1.png"> 
+<img style="float:left;" width="400" src="https://LabZhengLiu.github.io/images/Paper-1.png"> 
 &nbsp;[1] **Zheng Liu**, Weiming Wang, Xiuping Liu, Ligang Liu
 <br>
 &nbsp;Scale-Aware Shape Manipulation
