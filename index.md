@@ -76,6 +76,16 @@ Program committee
 
 # Selected Publications [[Google Scholar]](https://scholar.google.com/citations?user=_jtNrOUAAAAJ&hl=zh-CN) [[Researchgate]](https://www.researchgate.net/profile/Zheng_Liu52)
 
+<img style="float:left;" width="400" src="https://LabZhengLiu.github.io/images/paper-17.png"> 
+&nbsp;[16] Saishang Zhong, Zhenzhen Song **Zheng Liu<sup>★</sup>**
+<br>
+&nbsp;Shape-aware Mesh Normal Filtering
+<br>
+&nbsp;***Computer-Aided Design (Proc. SPM2021)***, 2021.
+<br>
+<div style="clear:both"></div>
+<br>
+
 <img style="float:left;" width="400" src="https://LabZhengLiu.github.io/images/paper-16.png"> 
 &nbsp;[16] **Zheng Liu**, Yanlei Li, Weina Wang, Ligang Liu, Renjie Chen<sup>★</sup>
 <br>
