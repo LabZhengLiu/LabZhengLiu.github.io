@@ -28,6 +28,7 @@ China University of Geosciences (Wuhan),
 <div style="clear:both"></div>
 
 # Latest News
+- <font size="4" color="red">2021.01: One paper is accepted by IEEE TVCG, and One paper is conditionally accepted by Computer-Aided Design (SPM 2021).</font>
 - <font size="4" color="red">2021.01: One paper is accepted by Sensors.</font>
 - <font size="4" color="red">2020.12: One paper is accepted by Journal of Computer-Aided Design & Computer Graphics.</font>
 - <font size="4" color="red">2020.11: One paper is accepted by Remote Sensing Letters.</font>
@@ -74,6 +75,18 @@ Program committee
 </font>
 
 # Selected Publications [[Google Scholar]](https://scholar.google.com/citations?user=_jtNrOUAAAAJ&hl=zh-CN) [[Researchgate]](https://www.researchgate.net/profile/Zheng_Liu52)
+
+<img style="float:left;" width="400" src="https://LabZhengLiu.github.io/images/Paper-15.png"> 
+&nbsp;[16] Zheng Liu, Yanlei Li, Weina Wang, Ligang Liu, **Renjie Chen<sup>★</sup>**
+<br>
+&nbsp;Mesh Total Generalized Variation for Denoising
+<br>
+&nbsp;***IEEE TVCG***, 2021.
+<br>
+&nbsp;**[[paper]](https://LabZhengLiu.github.io/papers/(Sensors21)Mesh%20Denoising%20via%20Adaptive%20Consistent%20Neighborhood.pdf) 
+   [[bib]](bibs/Guo2021Mesh.md)**
+<div style="clear:both"></div>
+<br>
 
 <img style="float:left;" width="400" src="https://LabZhengLiu.github.io/images/Paper-15.png"> 
 &nbsp;[15] Mingqiang Guo, Zhenzhen Song, Chengde Han, Saishang Zhong, Ruina Lv,  **Zheng Liu<sup>★</sup>**
