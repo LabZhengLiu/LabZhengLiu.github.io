@@ -81,7 +81,7 @@ Program committee
 <br>
 &nbsp;Shape-aware Mesh Normal Filtering
 <br>
-&nbsp;***Computer-Aided Design (Proc. SPM2021)***, 2021.
+&nbsp;***Computer-Aided Design (Proc. SPM2021)***, 2020.
 <br>
 <div style="clear:both"></div>
 <br>
