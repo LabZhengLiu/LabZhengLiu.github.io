@@ -77,14 +77,12 @@ Program committee
 # Selected Publications [[Google Scholar]](https://scholar.google.com/citations?user=_jtNrOUAAAAJ&hl=zh-CN) [[Researchgate]](https://www.researchgate.net/profile/Zheng_Liu52)
 
 <img style="float:left;" width="400" src="https://LabZhengLiu.github.io/images/Paper-15.png"> 
-&nbsp;[16] Zheng Liu, Yanlei Li, Weina Wang, Ligang Liu, **Renjie Chen<sup>★</sup>**
+&nbsp;[16] **Zheng Liu**, Yanlei Li, Weina Wang, Ligang Liu, Renjie Chen<sup>★</sup>
 <br>
 &nbsp;Mesh Total Generalized Variation for Denoising
 <br>
-&nbsp;***IEEE TVCG***, 2021.
+&nbsp;***IEEE Transactions on Visualization and Computer Graphics***, 2021.
 <br>
-&nbsp;**[[paper]](https://LabZhengLiu.github.io/papers/(Sensors21)Mesh%20Denoising%20via%20Adaptive%20Consistent%20Neighborhood.pdf) 
-   [[bib]](bibs/Guo2021Mesh.md)**
 <div style="clear:both"></div>
 <br>
 
