@@ -77,7 +77,7 @@ Program committee
 # Selected Publications [[Google Scholar]](https://scholar.google.com/citations?user=_jtNrOUAAAAJ&hl=zh-CN) [[Researchgate]](https://www.researchgate.net/profile/Zheng_Liu52)
 
 <img style="float:left;" width="400" src="https://LabZhengLiu.github.io/images/paper-17.png"> 
-&nbsp;[16] Saishang Zhong, Zhenzhen Song **Zheng Liu<sup>★</sup>**
+&nbsp;[16] Saishang Zhong, Zhenzhen Song, **Zheng Liu<sup>★</sup>**, Zhong Xie, Jianguo Chen, Lu Liu, Renjie Chen
 <br>
 &nbsp;Shape-aware Mesh Normal Filtering
 <br>
