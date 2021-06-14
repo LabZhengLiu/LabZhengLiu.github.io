@@ -94,8 +94,8 @@ Program committee
 &nbsp;***IEEE Transactions on Visualization and Computer Graphics***, 2021.
 <br>
 &nbsp;**[[paper]](https://LabZhengLiu.github.io/papers/(TVCG21)Mesh Total Generalized Variation for Denoising.pdf) 
-   [[code]](https://github.com/LabZhengLiu/MeshTGV)
-   [[bib]](bibs/Guo2020ANovel.md)**
+   [[exe]](https://github.com/LabZhengLiu/MeshTGV)
+   [[bib]](bibs/Liu2021MeshTGV.md)**
 <div style="clear:both"></div>
 <br>
 
