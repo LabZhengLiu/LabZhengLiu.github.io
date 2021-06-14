@@ -93,7 +93,7 @@ Program committee
 <br>
 &nbsp;***IEEE Transactions on Visualization and Computer Graphics***, 2021.
 <br>
-&nbsp;**[[paper]](https://LabZhengLiu.github.io/papers/(RSL20)A%20novel%20truncated%20nonconvex%20nonsmooth%20variational%20method%20for%20SAR%20image%20despeckling.pdf) 
+&nbsp;**[[paper]](https://LabZhengLiu.github.io/papers/(TVCG21)Mesh Total Generalized Variation for Denoising.pdf) 
    [[code]](https://github.com/LabZhengLiu/MeshTGV)
    [[bib]](bibs/Guo2020ANovel.md)**
 <div style="clear:both"></div>
