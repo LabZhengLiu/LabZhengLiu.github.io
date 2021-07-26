@@ -71,7 +71,7 @@ Program committee
 </strong>
 </font>
 <font size="4">
-: Chinagraph 2020，Geometric Modeling and Processing (GMP) 2021
+: Chinagraph 2020, Geometric Modeling and Processing (GMP) 2021, GDC 2021
 </font>
 
 # Selected Publications [[Google Scholar]](https://scholar.google.com/citations?user=_jtNrOUAAAAJ&hl=zh-CN) [[Researchgate]](https://www.researchgate.net/profile/Zheng_Liu52)
@@ -83,6 +83,8 @@ Program committee
 <br>
 &nbsp;***Computer-Aided Design (Proc. SPM2021)***, 2020.
 <br>
+&nbsp;**[[paper]](https://LabZhengLiu.github.io/papers/(TVCG21)Mesh Total Generalized Variation for Denoising.pdf) 
+   [[bib]](bibs/Liu2021MeshTGV.md)**
 <div style="clear:both"></div>
 <br>
 
