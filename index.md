@@ -83,8 +83,8 @@ Program committee
 <br>
 &nbsp;***Computer-Aided Design (Proc. SPM2021)***, 2020.
 <br>
-&nbsp;**[[paper]](https://LabZhengLiu.github.io/papers/(TVCG21)Mesh Total Generalized Variation for Denoising.pdf) 
-   [[bib]](bibs/Liu2021MeshTGV.md)**
+&nbsp;**[[paper]](https://LabZhengLiu.github.io/papers/(CAD21)Shape-aware Mesh Normal Filtering.pdf) 
+   [[bib]](bibs/Zhong2021Scale.md)**
 <div style="clear:both"></div>
 <br>
 
