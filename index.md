@@ -81,10 +81,10 @@ Program committee
 <br>
 &nbsp;Shape-aware Mesh Normal Filtering
 <br>
-&nbsp;***Computer-Aided Design (Proc. SPM2021)***, 2020.
+&nbsp;***Computer-Aided Design (Proc. SPM)***, 2021.
 <br>
 &nbsp;**[[paper]](https://LabZhengLiu.github.io/papers/(CAD21)Shape-aware Mesh Normal Filtering.pdf) 
-   [[bib]](bibs/Zhong2021Scale.md)**
+   [[bib]](bibs/Zhong2021Shape.md)**
 <div style="clear:both"></div>
 <br>
 
@@ -131,7 +131,7 @@ Program committee
 <br>
 &nbsp;Mesh Denoising via a Novel Mumford-Shah Framework
 <br>
-&nbsp;***Computer-Aided Design (Proc. SPM2020)***, 2020.
+&nbsp;***Computer-Aided Design (Proc. SPM)***, 2020.
 <br>
 &nbsp;**[[paper]](https://LabZhengLiu.github.io/papers/(CAD20)Mesh%20Denoising%20via%20a%20Novel%20Mumford–Shah%20Framework.pdf) 
     [[exe]](https://drive.google.com/file/d/1dy-IQ6D6D7uq1u_JcYSzhGvqdNgiAsqW/view?usp=sharing)
@@ -144,7 +144,7 @@ Program committee
 <br>
 &nbsp;A Feature-preserving Framework for Point Cloud Denoising
 <br>
-&nbsp;***Computer-Aided Design (Proc. SPM2020)***, 2020.
+&nbsp;***Computer-Aided Design (Proc. SPM)***, 2020.
 <br>
 &nbsp;**[[paper]](https://LabZhengLiu.github.io/papers/(CAD20)A%20feature-preserving%20framework%20for%20point%20cloud%20denoising.pdf) 
     [[exe]](https://www.github.com)
@@ -168,7 +168,7 @@ Program committee
 <br>
 &nbsp;A Novel Anisotropic Second Order Regularziation for Mesh Denoising
 <br>
-&nbsp;***Computer Aided Geometric Design (Proc. GMP2019)***, 2019. 
+&nbsp;***Computer Aided Geometric Design (Proc. GMP)***, 2019. 
 <br>&nbsp;**[[paper]](https://LabZhengLiu.github.io/papers/(CAGD19)A%20Novel%20Anisotropic%20Second%20Order%20Regularization%20for%20Mesh%20Denoising.pdf) 
     [[exe]](https://drive.google.com/file/d/1dy-IQ6D6D7uq1u_JcYSzhGvqdNgiAsqW/view?usp=sharing)
     [[bib]](bibs/Liu2019ANovel.md)**
@@ -203,7 +203,7 @@ Program committee
 <br>
 &nbsp;Mesh Denoising via Total Variation and Weighted Laplacian Regularizations
 <br>
-&nbsp;***Journal Computer Animation and Virtual Worlds (Proc. CASA2018)***, 2018.
+&nbsp;***Journal Computer Animation and Virtual Worlds (Proc. CASA)***, 2018.
 <br>&nbsp;**[[paper]](https://LabZhengLiu.github.io/papers/(CASA18)Mesh%20denoising%20via%20total%20variation%20and%20weighted%20Laplacian%20regularizations.pdf) 
     [[exe]](https://www.github.com)
     [[bib]](bibs/Zhong2018Mesh.md)**
@@ -256,7 +256,7 @@ Program committee
 <br>
 &nbsp;As-rigid-as-possible Spherical Parametrization
 <br>
-&nbsp;***Graphical Models (Proc. GMP2014)***, 2014.
+&nbsp;***Graphical Models (Proc. GMP)***, 2014.
 <br>&nbsp;**[[paper]](https://LabZhengLiu.github.io/papers/(GMP14)As-Rigid-As-Possible%20Spherical%20Parametrization.pdf)**
 <div style="clear:both"></div>
 <br>
