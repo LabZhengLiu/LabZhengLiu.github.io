@@ -97,8 +97,8 @@ Program committee
 <br>
 &nbsp;**[[paper]](https://LabZhengLiu.github.io/papers/(TVCG21)Mesh Total Generalized Variation for Denoising.pdf) 
    [[exe]](https://github.com/LabZhengLiu/MeshTGV)
-   [[ppt]]()
-   [[video]]()
+   [[ppt]](papers/(PG20)MeshTGV.ppt)
+   [[video]](papers/MeshTGV.mp4)
    [[bib]](bibs/Liu2021MeshTGV.md)**
 <div style="clear:both"></div>
 <br>
