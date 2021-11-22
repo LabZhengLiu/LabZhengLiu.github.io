@@ -28,7 +28,8 @@ China University of Geosciences (Wuhan),
 <div style="clear:both"></div>
 
 # Latest News
-- <font size="4" color="red">2021.06: One paper is accepted by IEEE TVCG, and one paper is conditionally accepted by Computer-Aided Design (SPM 2021).</font>
+- <font size="4" color="red">2021.11: One paper is accepted by Remote Sensing.</font>
+- <font size="4" color="red">2021.06: One paper is accepted by IEEE TVCG, and another is conditionally accepted by Computer-Aided Design (SPM 2021).</font>
 - <font size="4" color="red">2021.01: One paper is accepted by Sensors.</font>
 - <font size="4" color="red">2020.12: One paper is accepted by Journal of Computer-Aided Design & Computer Graphics.</font>
 - <font size="4" color="red">2020.11: One paper is accepted by Remote Sensing Letters.</font>
