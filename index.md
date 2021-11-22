@@ -78,7 +78,7 @@ Program committee
 # Selected Publications [[Google Scholar]](https://scholar.google.com/citations?user=_jtNrOUAAAAJ&hl=zh-CN) [[Researchgate]](https://www.researchgate.net/profile/Zheng_Liu52)
 
 <img style="float:left;" width="400" src="https://LabZhengLiu.github.io/images/paper-18.jpg"> 
-&nbsp;[18] Saishang Zhong, Mingqiang Guo,  Ruina Lv, Zhong Xie, **Zheng Liu<sup>★</sup>**
+&nbsp;[18] Saishang Zhong, Mingqiang Guo,  Ruina Lv, Jianguo Chen, Zhong Xie, **Zheng Liu<sup>★</sup>**
 <br>
 &nbsp;A Robust Rigid Point Cloud Registration Method Considering RGB-D Images
 <br>
