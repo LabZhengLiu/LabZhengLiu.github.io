@@ -76,6 +76,18 @@ Program committee
 
 # Selected Publications [[Google Scholar]](https://scholar.google.com/citations?user=_jtNrOUAAAAJ&hl=zh-CN) [[Researchgate]](https://www.researchgate.net/profile/Zheng_Liu52)
 
+<img style="float:left;" width="400" src="https://LabZhengLiu.github.io/images/paper-18.png"> 
+&nbsp;[18] Saishang Zhong, Mingqiang Guo,  Ruina Lv, Zhong Xie, **Zheng Liu<sup>★</sup>**
+<br>
+&nbsp;A Robust Rigid Point Cloud Registration Method Considering RGB-D Images
+<br>
+&nbsp;***Remote Sensing***, 2021.
+<br>
+&nbsp;**[[paper]](https://LabZhengLiu.github.io/papers/(CAD21)Shape-aware Mesh Normal Filtering.pdf) 
+   [[bib]](bibs/Zhong2021Shape.md)**
+<div style="clear:both"></div>
+<br>
+
 <img style="float:left;" width="400" src="https://LabZhengLiu.github.io/images/paper-17.png"> 
 &nbsp;[17] Saishang Zhong, Zhenzhen Song, **Zheng Liu<sup>★</sup>**, Zhong Xie, Jianguo Chen, Lu Liu, Renjie Chen
 <br>
