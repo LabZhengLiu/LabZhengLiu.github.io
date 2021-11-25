@@ -84,8 +84,8 @@ Program committee
 <br>
 &nbsp;***Remote Sensing***, 2021.
 <br>
-&nbsp;**[[paper]](https://LabZhengLiu.github.io/papers/(CAD21)Shape-aware Mesh Normal Filtering.pdf) 
-   [[bib]](bibs/Zhong2021Shape.md)**
+&nbsp;**[[paper]](https://LabZhengLiu.github.io/papers/(RS21)A Robust Rigid Registration Framework of 3D Indoor Scene Point Clouds Based on RGB-D Information.pdf) 
+   [[bib]](bibs/Zhong21ARobust.md)**
 <div style="clear:both"></div>
 <br>
 
