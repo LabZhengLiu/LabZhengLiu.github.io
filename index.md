@@ -86,6 +86,7 @@ Program committee
 &nbsp;***计算机辅助设计与图形学学报***, 2022.
 <br>
 &nbsp;**[[paper]](https://LabZhengLiu.github.io/papers/(CADCG22)顾及RGB-D图像的刚性点云鲁棒配准方法.pdf)
+ [[bib]](bibs/)**
 <div style="clear:both"></div>
 <br>
 
