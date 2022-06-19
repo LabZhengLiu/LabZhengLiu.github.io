@@ -79,12 +79,12 @@ Program committee
 # Selected Publications [[Google Scholar]](https://scholar.google.com/citations?user=_jtNrOUAAAAJ&hl=zh-CN) [[Researchgate]](https://www.researchgate.net/profile/Zheng_Liu52)
 
 <img style="float:left;" width="400" src="https://LabZhengLiu.github.io/images/19.Feature-preserving Mumford-Shah mesh processing via nonsmooth nonconvex regularization.jpg"> 
-&nbsp;[18] Chunxue Wang, **Zheng Liu<sup>★</sup>**, Ligang Liu
+&nbsp;[19] Chunxue Wang, **Zheng Liu<sup>★</sup>**, Ligang Liu
 <br>
 &nbsp;Feature-preserving Mumford-Shah mesh processing via nonsmooth nonconvex regularization
 <br>
 &nbsp;***Computer & Graphics***, 2022.
-
+<br>
 
 <img style="float:left;" width="400" src="https://LabZhengLiu.github.io/images/paper-18.jpg"> 
 &nbsp;[18] Saishang Zhong, Mingqiang Guo,  Ruina Lv, Jianguo Chen, Zhong Xie, **Zheng Liu<sup>★</sup>**
