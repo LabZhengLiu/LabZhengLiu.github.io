@@ -84,11 +84,6 @@ Program committee
 &nbsp;Feature-preserving Mumford-Shah mesh processing via nonsmooth nonconvex regularization
 <br>
 &nbsp;***Computer & Graphics***, 2022.
-<br>
-&nbsp;**[[paper]](https://LabZhengLiu.github.io/papers/) 
-   [[bib]](bibs/)**
-<div style="clear:both"></div>
-<br>
 
 
 <img style="float:left;" width="400" src="https://LabZhengLiu.github.io/images/paper-18.jpg"> 
