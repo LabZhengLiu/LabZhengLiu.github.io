@@ -85,8 +85,8 @@ Program committee
 <br>
 &nbsp;***Computer & Graphics***, 2022.
 <br>
-&nbsp;**[[paper]](https://LabZhengLiu.github.io/papers/(RS21)A Robust Rigid Registration Framework of 3D Indoor Scene Point Clouds Based on RGB-D Information.pdf) 
-   [[bib]](bibs/Zhong21ARobust.md)**
+&nbsp;**[[paper]](https://LabZhengLiu.github.io/papers/) 
+   [[bib]](bibs/)**
 <div style="clear:both"></div>
 <br>
 
