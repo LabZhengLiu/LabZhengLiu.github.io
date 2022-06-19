@@ -83,7 +83,7 @@ Program committee
 <br>
 &nbsp;Feature-preserving Mumford-Shah mesh processing via nonsmooth nonconvex regularization
 <br>
-&nbsp;***Remote Sensing***, 2022.
+&nbsp;***Computer & Graphics***, 2022.
 <br>
 &nbsp;**[[paper]](https://LabZhengLiu.github.io/papers/(RS21)A Robust Rigid Registration Framework of 3D Indoor Scene Point Clouds Based on RGB-D Information.pdf) 
    [[bib]](bibs/Zhong21ARobust.md)**
