@@ -85,6 +85,11 @@ Program committee
 <br>
 &nbsp;***Computer & Graphics***, 2022.
 <br>
+&nbsp;**[[paper]](https://LabZhengLiu.github.io/papers/(RS21)A Robust Rigid Registration Framework of 3D Indoor Scene Point Clouds Based on RGB-D Information.pdf) 
+   [[bib]](bibs/Zhong21ARobust.md)**
+<div style="clear:both"></div>
+<br>
+
 
 <img style="float:left;" width="400" src="https://LabZhengLiu.github.io/images/paper-18.jpg"> 
 &nbsp;[18] Saishang Zhong, Mingqiang Guo,  Ruina Lv, Jianguo Chen, Zhong Xie, **Zheng Liu<sup>★</sup>**
