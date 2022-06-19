@@ -13,7 +13,7 @@ Associate Research Professor,
 </font>
 <br>
 <font size="4">
-National Engineering Research Center of GIS,
+School of Computer Science,
 </font>
 <br>
 <font size="4">
@@ -28,6 +28,7 @@ China University of Geosciences (Wuhan),
 <div style="clear:both"></div>
 
 # Latest News
+- <font size="4" color="red">2022.6: One paper is accepted by Computer & Graphics.</font>
 - <font size="4" color="red">2021.11: One paper is accepted by Remote Sensing.</font>
 - <font size="4" color="red">2021.06: One paper is accepted by IEEE TVCG, and another is conditionally accepted by Computer-Aided Design (SPM 2021).</font>
 - <font size="4" color="red">2021.01: One paper is accepted by Sensors.</font>
@@ -72,10 +73,23 @@ Program committee
 </strong>
 </font>
 <font size="4">
-: Chinagraph 2020, Geometric Modeling and Processing (GMP) 2021, GDC 2021
+: Chinagraph 2020, Geometric Modeling and Processing (GMP) 2021, GDC 2021, GDC 2022
 </font>
 
 # Selected Publications [[Google Scholar]](https://scholar.google.com/citations?user=_jtNrOUAAAAJ&hl=zh-CN) [[Researchgate]](https://www.researchgate.net/profile/Zheng_Liu52)
+
+<img style="float:left;" width="400" src="https://LabZhengLiu.github.io/images/paper-18.jpg"> 
+&nbsp;[18] Chunxue Wang, **Zheng Liu<sup>★</sup>**, Ligang Liu
+<br>
+&nbsp;Feature-preserving Mumford-Shah mesh processing via nonsmooth nonconvex regularization
+<br>
+&nbsp;***Remote Sensing***, 2022.
+<br>
+&nbsp;**[[paper]](https://LabZhengLiu.github.io/papers/(RS21)A Robust Rigid Registration Framework of 3D Indoor Scene Point Clouds Based on RGB-D Information.pdf) 
+   [[bib]](bibs/Zhong21ARobust.md)**
+<div style="clear:both"></div>
+<br>
+
 
 <img style="float:left;" width="400" src="https://LabZhengLiu.github.io/images/paper-18.jpg"> 
 &nbsp;[18] Saishang Zhong, Mingqiang Guo,  Ruina Lv, Jianguo Chen, Zhong Xie, **Zheng Liu<sup>★</sup>**
