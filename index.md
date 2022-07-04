@@ -98,7 +98,7 @@ Program committee
 <br>
 &nbsp;***Computer & Graphics***, 2022.
 <br>
-&nbsp;**[[paper]](https://LabZhengLiu.github.io/papers/) 
+&nbsp;**[[paper]](https://LabZhengLiu.github.io/papers/(CG22)Feature-preserving Mumford–Shah mesh processing via nonsmooth nonconvex regularization.pdf) 
    [[bib]](bibs/)**
 <div style="clear:both"></div>
 <br>
