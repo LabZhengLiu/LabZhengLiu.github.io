@@ -78,6 +78,18 @@ Program committee
 
 # Selected Publications [[Google Scholar]](https://scholar.google.com/citations?user=_jtNrOUAAAAJ&hl=zh-CN) [[Researchgate]](https://www.researchgate.net/profile/Zheng_Liu52)
 
+<img style="float:left;" width="400" src="https://LabZhengLiu.github.io/images/19.Feature-preserving Mumford-Shah mesh processing via nonsmooth nonconvex regularization.jpg"> 
+&nbsp;[19] **Document Image Shadow Removal Guided by Color-Aware Background**
+<br>
+&nbsp;Ling Zhang, Yinghao He, Qing Zhang, Zheng Liu, Xiaolong Zhang, Chunxia Xiao
+<br>
+&nbsp;***Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR)***, 2023.
+<br>
+&nbsp;**[[paper]](https://LabZhengLiu.github.io/papers/(CG22)Feature-preserving Mumford–Shah mesh processing via nonsmooth nonconvex regularization.pdf) 
+   [[bib]](bibs/)**
+<div style="clear:both"></div>
+<br>
+
 <img style="float:left;" width="400" src="https://LabZhengLiu.github.io/images/20.Robust Rigid Point Cloud Registration via RGB-D Images.jpg"> 
 &nbsp;[20] **一种鲁棒的顾及RGB-D图像的刚性点云配准方法**
 <br>
