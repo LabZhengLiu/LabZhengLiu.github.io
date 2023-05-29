@@ -78,7 +78,7 @@ Program committee
 
 # Selected Publications [[Google Scholar]](https://scholar.google.com/citations?user=_jtNrOUAAAAJ&hl=zh-CN) [[Researchgate]](https://www.researchgate.net/profile/Zheng_Liu52)
 
-<img style="float:left;" width="400" src="https://LabZhengLiu.github.io/images/21.Document Image Shadow Removal Guided by Color-Aware Background.jpg"> 
+<img style="float:left;" width="400" src="images/21.Document Image Shadow Removal Guided by Color-Aware Background.jpg"> 
 &nbsp;[19] **Document Image Shadow Removal Guided by Color-Aware Background**
 <br>
 &nbsp;Ling Zhang, Yinghao He, Qing Zhang, Zheng Liu, Xiaolong Zhang, Chunxia Xiao
