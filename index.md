@@ -85,7 +85,7 @@ Program committee
 <br>
 &nbsp;***Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR)***, 2023.
 <br>
-&nbsp;**[[paper]](papers/(CVPR23)Document Image Shadow Removal Guided by Color-Aware Background.pdf) 
+&nbsp;**[[paper]](https://LabZhengLiu.github.io/papers/(CVPR23)Document Image Shadow Removal Guided by Color-Aware Background.pdf) 
    [[bib]](bibs/)**
 <div style="clear:both"></div>
 <br>
