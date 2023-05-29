@@ -28,6 +28,7 @@ China University of Geosciences (Wuhan),
 <div style="clear:both"></div>
 
 # Latest News
+- <font size="4" color="red">2032: One paper is accepted by CVPR.</font>
 - <font size="4" color="red">2022.06: One paper is accepted by Computer & Graphics.</font>
 - <font size="4" color="red">2021.11: One paper is accepted by Remote Sensing.</font>
 - <font size="4" color="red">2021.06: One paper is accepted by IEEE TVCG, and another is conditionally accepted by Computer-Aided Design (SPM 2021).</font>
@@ -79,13 +80,13 @@ Program committee
 # Selected Publications [[Google Scholar]](https://scholar.google.com/citations?user=_jtNrOUAAAAJ&hl=zh-CN) [[Researchgate]](https://www.researchgate.net/profile/Zheng_Liu52)
 
 <img style="float:left;" width="400" src="images/21.Document Image Shadow Removal Guided by Color-Aware Background.jpg"> 
-&nbsp;[19] **Document Image Shadow Removal Guided by Color-Aware Background**
+&nbsp;[20] **Document Image Shadow Removal Guided by Color-Aware Background**
 <br>
 &nbsp;Ling Zhang, Yinghao He, Qing Zhang, Zheng Liu, Xiaolong Zhang, Chunxia Xiao
 <br>
 &nbsp;***Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR)***, 2023.
 <br>
-&nbsp;**[[paper]](papers/(CVPR23)Document Image Shadow Removal Guided by Color-Aware Background.pdf) 
+&nbsp;**[[paper]]((https://LabZhengLiu.github.io/papers/(CVPR23)Document Image Shadow Removal Guided by Color-Aware Background.pdf) 
    [[bib]](bibs/)**
 <div style="clear:both"></div>
 <br>
