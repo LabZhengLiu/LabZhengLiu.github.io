@@ -87,7 +87,7 @@ Program committee
 <br>
 &nbsp;***IEEE Transactions on Visualization and Computer Graphics***, 2023.
 <br>
-&nbsp;**[[paper]](https://LabZhengLiu.github.io/papers/(CVPR23)Document Image Shadow Removal Guided by Color-Aware Background.pdf) 
+&nbsp;**[[paper]](https://LabZhengLiu.github.io/papers/(TVCG23)PCDNF.pdf) 
    [[bib]](bibs/)**
 <div style="clear:both"></div>
 <br>
