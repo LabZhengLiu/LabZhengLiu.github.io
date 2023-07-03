@@ -71,7 +71,7 @@ Paper reviewer
 <br>
 <font size="4">
 <strong>
-Program committee
+Program Committee
 </strong>
 </font>
 <font size="4">
