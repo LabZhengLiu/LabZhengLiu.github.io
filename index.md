@@ -28,6 +28,7 @@ China University of Geosciences (Wuhan),
 <div style="clear:both"></div>
 
 # Latest News
+- <font size="4" color="red">2023.07: One paper is accepted by IEEE TVCG.</font>
 - <font size="4" color="red">2023.04: One paper is accepted by CVPR.</font>
 - <font size="4" color="red">2022.06: One paper is accepted by Computer & Graphics.</font>
 - <font size="4" color="red">2021.11: One paper is accepted by Remote Sensing.</font>
@@ -65,7 +66,7 @@ Paper reviewer
 </strong>
 </font>
 <font size="4">
-: IEEE Transactions on Visualization and Computer Graphics (TVCG), IEEE Transactions on Multimedia (TMM), Computer-Aided Design (CAD), Computer Vision and Image Understanding, Computer Graphics Forum (CGF), Computer Aided Geometric Design (CAGD), Visual Computer, IEEE Computer Graphics and Applications, Journal of Computational and Applied Mathematics (JCAM), IEEE Access
+: IEEE Transactions on Visualization and Computer Graphics (TVCG), IEEE Transactions on Multimedia (TMM), Computer-Aided Design (CAD), Computer Vision and Image Understanding, Computer Graphics Forum (CGF), Computer Aided Geometric Design (CAGD), Visual Computer, Computer & Graphics,IEEE Computer Graphics and Applications, Journal of Computational and Applied Mathematics (JCAM), IEEE Access
 </font>
 <br>
 <font size="4">
@@ -78,6 +79,18 @@ Program committee
 </font>
 
 # Selected Publications [[Google Scholar]](https://scholar.google.com/citations?user=_jtNrOUAAAAJ&hl=zh-CN) [[Researchgate]](https://www.researchgate.net/profile/Zheng_Liu52)
+
+<img style="float:left;" width="400" src="images/paper-21.jpg"> 
+&nbsp;[21] **PCDNF: Revisiting Learning-based Point Cloud Denoising via Joint Normal Filtering**
+<br>
+&nbsp;Zheng Liu, Yaowu Zhao, Sijing Zhan, Yuanyuan Liu, **Renjie Chen**, Ying He
+<br>
+&nbsp;***IEEE Transactions on Visualization and Computer Graphics***, 2023.
+<br>
+&nbsp;**[[paper]](https://LabZhengLiu.github.io/papers/(CVPR23)Document Image Shadow Removal Guided by Color-Aware Background.pdf) 
+   [[bib]](bibs/)**
+<div style="clear:both"></div>
+<br>
 
 <img style="float:left;" width="400" src="images/paper-21.jpg"> 
 &nbsp;[21] **Document Image Shadow Removal Guided by Color-Aware Background**
