@@ -83,7 +83,7 @@ Program committee
 <img style="float:left;" width="400" src="images/paper-21.jpg"> 
 &nbsp;[22] **PCDNF: Revisiting Learning-based Point Cloud Denoising via Joint Normal Filtering**
 <br>
-&nbsp;Zheng Liu, Yaowu Zhao, Sijing Zhan, Yuanyuan Liu, **Renjie Chen**, Ying He
+&nbsp;Zheng Liu, Yaowu Zhao, Sijing Zhan, Yuanyuan Liu, **Renjie Chen<sup>★</sup>**, Ying He
 <br>
 &nbsp;***IEEE Transactions on Visualization and Computer Graphics***, 2023.
 <br>
