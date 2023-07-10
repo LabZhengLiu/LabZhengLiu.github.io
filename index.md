@@ -80,7 +80,7 @@ Program Committee
 
 # Selected Publications [[Google Scholar]](https://scholar.google.com/citations?user=_jtNrOUAAAAJ&hl=zh-CN) [[Researchgate]](https://www.researchgate.net/profile/Zheng_Liu52)
 
-<img style="float:left;" width="400" src="images/paper-22-tvcg.jpg"> 
+<img style="float:left;" width="400" src="images/paper-23.jpg"> 
 &nbsp;[23] **Robust and Accurate Feature Detection on Point Clouds**
 <br>
 &nbsp;**Zheng Liu**, Xiaopeng Xin, Zheng Xu, Weojie Zhou, Chunxue Wang, Renjie Chen<sup>★</sup>, Ying He
