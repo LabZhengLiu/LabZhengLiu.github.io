@@ -87,7 +87,7 @@ Program Committee
 <br>
 &nbsp;***Computer-Aided Design***, 2023.
 <br>
-&nbsp;****
+&nbsp;
 <div style="clear:both"></div>
 <br>
 
