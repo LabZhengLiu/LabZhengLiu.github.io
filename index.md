@@ -66,7 +66,7 @@ Paper reviewer
 </strong>
 </font>
 <font size="4">
-: IEEE Transactions on Visualization and Computer Graphics (TVCG), IEEE Transactions on Multimedia (TMM), Computer-Aided Design (CAD), Computer Vision and Image Understanding, Computer Graphics Forum (CGF), Computer Aided Geometric Design (CAGD), Visual Computer, Computer & Graphics,IEEE Computer Graphics and Applications, Journal of Computational and Applied Mathematics (JCAM), IEEE Access
+: IEEE Transactions on Visualization and Computer Graphics (TVCG), IEEE Transactions on Multimedia (TMM), Computer-Aided Design (CAD), Computer Vision and Image Understanding, Computer Graphics Forum (CGF), Computer Aided Geometric Design (CAGD), Visual Computer, Computer & Graphics, IEEE Computer Graphics and Applications, Journal of Computational and Applied Mathematics (JCAM), IEEE Access
 </font>
 <br>
 <font size="4">
@@ -83,7 +83,7 @@ Program Committee
 <img style="float:left;" width="400" src="images/paper-23.jpg"> 
 &nbsp;[23] **Robust and Accurate Feature Detection on Point Clouds**
 <br>
-&nbsp;**Zheng Liu**, Xiaopeng Xin, Zheng Xu, Weojie Zhou, Chunxue Wang, Renjie Chen<sup>★</sup>, Ying He
+&nbsp;**Zheng Liu**, Xiaopeng Xin, Zheng Xu, Weijie Zhou, Chunxue Wang, Renjie Chen<sup>★</sup>, Ying He
 <br>
 &nbsp;***Computer-Aided Design***, 2023.
 <br>
