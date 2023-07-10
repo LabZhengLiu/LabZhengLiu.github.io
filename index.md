@@ -28,7 +28,7 @@ China University of Geosciences (Wuhan),
 <div style="clear:both"></div>
 
 # Latest News
-- <font size="4" color="red">2023.07: One paper is accepted by IEEE TVCG, and another is conditionally accepted by Computer-Aided Design.</font>
+- <font size="4" color="red">2023.07: One paper is accepted by IEEE TVCG, and another is accepted by Computer-Aided Design.</font>
 - <font size="4" color="red">2023.04: One paper is accepted by CVPR.</font>
 - <font size="4" color="red">2022.06: One paper is accepted by Computer & Graphics.</font>
 - <font size="4" color="red">2021.11: One paper is accepted by Remote Sensing.</font>
