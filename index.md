@@ -88,7 +88,7 @@ Program Committee
 &nbsp;***Computer-Aided Design***, 2023.
 <br>
 &nbsp;**[[paper]](https://LabZhengLiu.github.io/papers/) 
-   [[exe]](https://github.com/simpsonpeng/feature-detection/)**
+   [[exe]](https://github.com/simpsonpeng/feature-detection)
 <div style="clear:both"></div>
 <br>
 
