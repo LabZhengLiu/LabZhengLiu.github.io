@@ -100,7 +100,7 @@ Program Committee
 &nbsp;***IEEE Transactions on Visualization and Computer Graphics***, 2023.
 <br>
 &nbsp;**[[paper]](https://LabZhengLiu.github.io/papers/(TVCG23)PCDNF.pdf) 
-    [[code]](https://github.com/LabZhengLiu/PCDNF)**
+    [[code]](https://github.com/LabZhengLiu/PCDNF)
 <div style="clear:both"></div>
 <br>
 
