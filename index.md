@@ -80,6 +80,16 @@ Program Committee
 
 # Selected Publications [[Google Scholar]](https://scholar.google.com/citations?user=_jtNrOUAAAAJ&hl=zh-CN) [[Researchgate]](https://www.researchgate.net/profile/Zheng_Liu52)
 
+<img style="float:left;" width="400" src="images/paper-24.jpg"> 
+&nbsp;[24] **Facial Image Shadow Removal via Graph-based Feature Fusion**
+<br>
+&nbsp; Ling Zhang, Ben Chen, **Zheng Liu**, Chunxia Xiao
+<br>
+&nbsp;***Computer Graphics Forum (Proc. PG)***, 2023.
+<br>
+<div style="clear:both"></div>
+<br>
+
 <img style="float:left;" width="400" src="images/paper-23.jpg"> 
 &nbsp;[23] **Robust and Accurate Feature Detection on Point Clouds**
 <br>
