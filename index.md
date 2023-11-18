@@ -98,9 +98,8 @@ Program Committee
 &nbsp; Ling Zhang, Ben Chen, **Zheng Liu**, Chunxia Xiao
 <br>
 &nbsp;***Computer Graphics Forum (Proc. PG)***, 2023.
-<be>
-&nbsp;**[[paper]](https://LabZhengLiu.github.io/papers/(CGF23)Facial Image Shadow Removal via 
-Graph-based Feature Fusion.pdf)**
+<br>
+&nbsp;**[[paper]](https://LabZhengLiu.github.io/papers/(CGF23)Facial Image Shadow Removal via Graph-based Feature Fusion.pdf)**
 <br>
 <div style="clear:both"></div>
 <br>
