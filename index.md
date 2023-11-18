@@ -83,7 +83,7 @@ Program Committee
 <img style="float:left;" width="400" src="images/paper-25.jpg"> 
 &nbsp;[25] **BEMF-Net: Semantic Segmentation of Large-Scale Point Clouds via Bilateral Neighbor Enhancement and Multi-Scale Fusion**
 <br>
-&nbsp; Hao Ji, Sansheng Yang, Zhipeng Jiang, Jianjun Zhang, Shuhao Guo, Gaorui Li, Saishang Zhong, **Zheng Liu**, Zhong Xie
+&nbsp; Hao Ji, Sansheng Yang, Zhipeng Jiang, Jianjun Zhang, Shuhao Guo, Gaorui Li, Saishang Zhong, **Zheng Liu<sup>★</sup>**, Zhong Xie
 <br>
 &nbsp;***Remote Sensing***, 2023.
 <br>
