@@ -88,7 +88,6 @@ Program Committee
 &nbsp;***Remote Sensing***, 2023.
 <br>
 &nbsp;**[[paper]](https://LabZhengLiu.github.io/papers/(RS23)BEMF-Net - Semantic Segmentation of Large-Scale Point Clouds via Bilateral Neighbor Enhancement and Multi-Scale Fusion.pdf)**
-<br>
 <div style="clear:both"></div>
 <br>
 
@@ -100,7 +99,6 @@ Program Committee
 &nbsp;***Computer Graphics Forum (Proc. PG)***, 2023.
 <br>
 &nbsp;**[[paper]](https://LabZhengLiu.github.io/papers/(CGF23)Facial Image Shadow Removal via Graph-based Feature Fusion.pdf)**
-<br>
 <div style="clear:both"></div>
 <br>
 
