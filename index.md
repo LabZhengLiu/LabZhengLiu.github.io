@@ -80,6 +80,16 @@ Program Committee
 
 # Selected Publications [[Google Scholar]](https://scholar.google.com/citations?user=_jtNrOUAAAAJ&hl=zh-CN) [[Researchgate]](https://www.researchgate.net/profile/Zheng_Liu52)
 
+<img style="float:left;" width="400" src="images/paper-25.jpg"> 
+&nbsp;[25] **BEMF-Net: Semantic Segmentation of Large-Scale Point Clouds via Bilateral Neighbor Enhancement and Multi-Scale Fusion**
+<br>
+&nbsp; Hao Ji, Sansheng Yang, Zhipeng Jiang, Jianjun Zhang, Shuhao Guo, Gaorui Li, Saishang Zhong, **Zheng Liu**, Zhong Xie
+<br>
+&nbsp;***Remote Sensing***, 2023.
+<br>
+<div style="clear:both"></div>
+<br>
+
 <img style="float:left;" width="400" src="images/paper-24.jpg"> 
 &nbsp;[24] **Facial Image Shadow Removal via Graph-based Feature Fusion**
 <br>
