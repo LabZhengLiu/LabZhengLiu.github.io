@@ -87,7 +87,7 @@ Program Committee
 <br>
 &nbsp;***International Journal of Applied Earth Observation and Geoinformation***, 2024.
 <br>
-&nbsp;**[[paper]](papers/(JAG24)Accurate and complete line segment extraction for large-scale point clouds.pdf)**
+&nbsp;**[[paper]](https://LabZhengLiu.github.io/papers/(JAG24)Accurate and complete line segment extraction for large-scale point clouds.pdf)**
 <div style="clear:both"></div>
 <br>
 
