@@ -80,6 +80,17 @@ Program Committee
 
 # Selected Publications [[Google Scholar]](https://scholar.google.com/citations?user=_jtNrOUAAAAJ&hl=zh-CN) [[Researchgate]](https://www.researchgate.net/profile/Zheng_Liu52)
 
+<img style="float:left;" width="400" src="images/paper-26.jpg"> 
+&nbsp;[25] **Accurate and complete line segment extraction for large-scale point clouds**
+<br>
+&nbsp; Xiaopeng Xin; Wei Huang; Saishang Zhong; Ming Zhang; **Zheng Liu<sup>★</sup>**; Zhong Xie
+<br>
+&nbsp;***International Journal of Applied Earth Observation and Geoinformation***, 2024.
+<br>
+&nbsp;**[[paper]](https://LabZhengLiu.github.io/papers/(RS23)BEMF-Net - Semantic Segmentation of Large-Scale Point Clouds via Bilateral Neighbor Enhancement and Multi-Scale Fusion.pdf)**
+<div style="clear:both"></div>
+<br>
+
 <img style="float:left;" width="400" src="images/paper-25.jpg"> 
 &nbsp;[25] **BEMF-Net: Semantic Segmentation of Large-Scale Point Clouds via Bilateral Neighbor Enhancement and Multi-Scale Fusion**
 <br>
