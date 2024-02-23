@@ -40,7 +40,7 @@ China University of Geosciences (Wuhan),
 
 # Research Interests
 <font size="4">
-My research interests fall into the areas of computer graphics, image processing, scientific computing, and etc.
+My research interests fall into the areas of computer graphics, 3D vision, deep learning, and digital twins.
 More specifically, I am interested in the following topics:
 <ul>
 <li>
@@ -87,7 +87,7 @@ Program Committee
 <br>
 &nbsp;***International Journal of Applied Earth Observation and Geoinformation***, 2024.
 <br>
-&nbsp;**[[paper]](https://LabZhengLiu.github.io/papers/(RS23)BEMF-Net - Semantic Segmentation of Large-Scale Point Clouds via Bilateral Neighbor Enhancement and Multi-Scale Fusion.pdf)**
+&nbsp;**[[paper]](papers/(JAG24)Accurate and complete line segment extraction for large-scale point clouds.pdf)**
 <div style="clear:both"></div>
 <br>
 
